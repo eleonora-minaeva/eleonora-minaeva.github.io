@@ -1,78 +1,149 @@
-<div class="col-md-4 pt-5">
-    <div class="fixed-posi">
-        <!-- Name -->
-        <p class="name text-right">Eleonora Minaeva</p>
-        <!-- Profile Picture -->
-        <img src="eleonora-minaeva-main-pic.jpg" class="profilepic pt-3 pb-2" alt="Profile Picture">
-        <!-- Contact Information -->
-        <p class="text-right">Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-        <p class="text-right">LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></p>
-        <!-- CV Download Link -->
-        <p class="text-right"><a href="CV-Sep-2024.pdf" target="_blank">Download CV</a></p>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="PhD Researcher, European University Institute">
+    <meta name="author" content="Eleonora Minaeva">
+    <meta name="theme-color" content="#222222">
+
+    <!-- Link to Google Fonts (Roboto Slab) -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Add custom styles here -->
+    <style>
+        /* Customizing the picture */
+        .profilepic {
+            width: 120px;  /* Adjusted smaller width */
+            border-radius: 50%;  /* Circular shape */
+            display: block;
+            margin: 0;  /* Align with left column */
+        }
+
+        /* Layout for image and content */
+        .fixed-posi {
+            text-align: left;  /* Align name and contact info to the left */
+        }
+
+        .container {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .col-md-4 {
+            flex: 0 0 30%;  /* Left column for image and contact info */
+        }
+
+        .col-md-8 {
+            flex: 0 0 70%;  /* Right column for content */
+            padding-left: 20px;
+        }
+
+        /* Customizing fonts */
+        body {
+            font-family: 'Roboto Slab', serif;  /* Use Roboto Slab for all text */
+            color: #333;
+        }
+
+        h2 {
+            color: #2C3E50;  /* Dark blue for headers */
+        }
+
+        p {
+            line-height: 1.6;  /* Spacing for readability */
+        }
+
+        a {
+            color: #007bff; /* Link color */
+        }
+    </style>
+
+    <title>Eleonora Minaeva</title>
+</head>
+<body>
+    <div class="container pt-5">
+        <!-- Left Column: Profile Picture and Contact Info -->
+        <div class="col-md-4 pt-5">
+            <div class="fixed-posi">
+                <!-- Name -->
+                <p class="name text-left">Eleonora Minaeva</p>
+                <!-- Profile Picture -->
+                <img src="eleonora-minaeva-main-pic.jpg" class="profilepic pt-3 pb-2" alt="Profile Picture">
+                <!-- Contact Information -->
+                <p class="text-left">Email: <a href="mailto:eleonora.minaeva@eui.eu">eleonora.minaeva@eui.eu</a></p>
+                <p class="text-left">GitHub: <a href="https://github.com/eleonora-minaeva" target="_blank">github.com/eleonora-minaeva</a></p>
+                <!-- CV Download Link -->
+                <p class="text-left"><a href="CV-Sep-2024.pdf" target="_blank">Download CV</a></p>
+            </div>
+        </div>
+
+        <!-- Right Column: Main Content -->
+        <div class="col-md-8 pt-5">
+            <section id="about">
+                <h2>About Me</h2>
+                <p>I am a Doctoral Researcher in the Social and Political Sciences Department at the <a href="https://www.eui.eu/people?id=eleonora-minaeva" target="_blank">European University Institute</a>. In the upcoming spring semester, I will be visiting the George Washington University and the Institute for European, Russian, and Eurasian Studies.</p>
+            </section>
+
+            <section id="current-projects" class="pt-5">
+                <h2>Current Projects</h2>
+                <p>I specialize in comparative studies of authoritarian regimes, with a focus on the politics of post-communist countries. My research projects investigate local politics, urban protests, and interethnic relations in non-democratic systems. My current dissertation projects examine how dictators manipulate subnational institutions, specifically addressing two key questions: Why do authoritarian regimes decentralize? And if already decentralized, why do they reverse it? This study analyzes the factors that predict the introduction and cancellation of public elections at the subnational level across autocratic regimes worldwide.</p>
+                
+                <p>The second part of my project explores the impact of introducing local executive elections on local contestation, elite composition, and government performance. This collaborative research is conducted with <a href="https://www.eui.eu/people?id=kirill-melnikov" target="_blank">Kirill Melnikov</a> and <a href="https://www.politics.ox.ac.uk/person/thomas-hazell" target="_blank">Thomas Hazell</a>. We explore a unique experimental setting in Kazakhstan, where local executive elections have been introduced, and we track the changes in the composition and compliance of rural elites.</p>
+            </section>
+
+            <section id="teaching-experience" class="pt-5">
+                <h2>Teaching Experience</h2>
+                <p>Last year, I taught the <i>Introduction to R</i> course for first-year PhD students at the European University Institute. This fall, I am conducting a <a href="link-to-course-details" target="_blank">block seminar on the Political Paths of Post-Soviet Countries</a> for Master’s students at the Technical University of Darmstadt.</p>
+            </section>
+
+            <section id="publications" class="pt-5">
+                <h2>Latest Publications</h2>
+                <ul>
+                    <li>Minaeva, E., Rumiantseva, A., Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? <i>Electoral Studies</i>, Vol. 85. DOI: <a href="https://doi.org/10.1016/j.electstud.2023.102657" target="_blank">10.1016/j.electstud.2023.102657</a>.</li>
+                    <li>Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), <i>Varieties of Russian Activism: State-Society Contestation in Everyday Life</i>. Bloomington: Indiana University Press.</li>
+                    <li>Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. <i>Universe of Russia. Sociology. Ethnology</i>, Vol. 31, Issue 2: 97-117. <i>(in Russian)</i>.</li>
+                </ul>
+            </section>
+
+            <section id="online-publications" class="pt-5">
+                <h2>Online Publications</h2>
+                <ul>
+                    <li><a href="https://www.icelds.org/2018/03/02/gis-technologies-in-ethno-political-studies-spatial-localization-of-ethnic-groups/" target="_blank">GIS Technologies in Ethno-Political Studies: Spatial Localization of Ethnic Groups</a>.</li>
+                    <li>Rogov, K., & Minaeva, E. (2022). <a href="https://re-russia.net/en/analytics/023/" target="_blank">The Journey from 1945 to 1941</a>.</li>
+                    <li>Ross, S., Serebrennikov, D., Minaeva, E., & Netyaev, V. (2024). Surveillance Technologies in Autocratic Regimes: The Moscow AI Experiment and its Implications for Crime Control and Police Effectiveness. Available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4789135" target="_blank">SSRN</a>.</li>
+                </ul>
+            </section>
+
+            <section id="grants" class="pt-5">
+                <h2>Grants</h2>
+                <ul>
+                    <li><a href="https://rscf.ru/en/" target="_blank">Russian Science Foundation</a> <span style="float:right;">2018 — 2023</span><br>
+                        Collective Grant for Russian Scholars<br>
+                        <a href="http://urbanconflictsrussia.ru/" target="_blank">Mechanisms of Interests Coordination in the Urban Development Processes</a>
+                    </li>
+                    
+                    <li><a href="https://oxfordrussia.ru/about/whoweare/" target="_blank">Oxford Russia Fellowship</a> <span style="float:right;">2020 — 2021</span><br>
+                        Individual Grant for Young Russian Scholars<br>
+                        <i>Political Consequences of the Implementation of Municipal Heads’ Appointments in Russia</i>
+                    </li>
+                    
+                    <li><a href="https://www.rfbr.ru/rffi/eng" target="_blank">Russian Foundation for Basic Research</a> <span style="float:right;">2019 — 2021</span><br>
+                        Collective Grant for Russian Scholars<br>
+                        <i>Spatial Localization of Ethnic Minorities within the Framework of Political-Administrative Boundaries as a Factor of Politicization of Ethnicity on Sub-National Level: Russian Practices in the Context of World Experience</i>
+                    </li>
+                    
+                    <li><a href="https://www.volkswagenstiftung.de/en/funding" target="_blank">Volkswagen Foundation</a> <span style="float:right;">2019 — 2021</span><br>
+                        Collective Grant for Interdisciplinary and International Research<br>
+                        <a href="https://triparblog.wordpress.com/" target="_blank">Shifting Paradigms: Towards Participatory and Effective Urban Planning in Germany, Russia and Ukraine</a>
+                    </li>
+                    
+                    <li><a href="https://rscf.ru/en/" target="_blank">Russian Science Foundation</a> <span style="float:right;">2015 — 2017</span><br>
+                        Collective Grant for Russian Scholars<br>
+                        <a href="http://identityworld.ru/index/atlas_era_eng/0-6" target="_blank">Securing a Balance in Interethnic Relations: Regional autonomies, the State Integrity and the Rights of Ethnic Minorities</a>
+                    </li>
+                </ul>
+            </section>
+        </div>
     </div>
-</div>
-
-<section id="about">
-    <h2>About Me</h2>
-    <p>I am a Doctoral Researcher in the Social and Political Sciences Department at the <a href="https://www.eui.eu/people?id=eleonora-minaeva" target="_blank">European University Institute</a>. In the upcoming spring semester, I will be visiting the George Washington University and the Institute for European, Russian, and Eurasian Studies.</p>
-</section>
-
-<section id="current-projects" class="pt-5">
-    <h2>Current Projects</h2>
-    <p>I specialize in comparative studies of authoritarian regimes, with a focus on the politics of post-communist countries. My research projects investigate local politics, urban protests, and interethnic relations in non-democratic systems. My current dissertation projects examine how dictators manipulate subnational institutions, specifically addressing two key questions: Why do authoritarian regimes decentralize? And if already decentralized, why do they reverse it? This study analyzes the factors that predict the introduction and cancellation of public elections at the subnational level across autocratic regimes worldwide.</p>
-    
-    <p>The second part of my project explores the impact of introducing local executive elections on local contestation, elite composition, and government performance. This collaborative research is conducted with <a href="https://www.eui.eu/people?id=kirill-melnikov" target="_blank">Kirill Melnikov</a> and <a href="https://www.politics.ox.ac.uk/person/thomas-hazell" target="_blank">Thomas Hazell</a>. We explore a unique experimental setting in Kazakhstan, where local executive elections have been introduced, and we track the changes in the composition and compliance of rural elites.</p>
-</section>
-
-<section id="teaching-experience" class="pt-5">
-    <h2>Teaching Experience</h2>
-    <p>Last year, I taught the <i>Introduction to R</i> course for first-year PhD students at the European University Institute. This fall, I am conducting a <a href="link-to-course-details" target="_blank">block seminar on the Political Paths of Post-Soviet Countries</a> for Master’s students at the Technical University of Darmstadt.</p>
-</section>
-
-<section id="publications" class="pt-5">
-    <h2>Latest Publications</h2>
-    <ul>
-        <li>Minaeva, E., Rumiantseva, A., Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? <i>Electoral Studies</i>, Vol. 85. DOI: <a href="https://doi.org/10.1016/j.electstud.2023.102657" target="_blank">10.1016/j.electstud.2023.102657</a>.</li>
-        <li>Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), <i>Varieties of Russian Activism: State-Society Contestation in Everyday Life</i>. Bloomington: Indiana University Press.</li>
-        <li>Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. <i>Universe of Russia. Sociology. Ethnology</i>, Vol. 31, Issue 2: 97-117. <i>(in Russian)</i>.</li>
-    </ul>
-</section>
-
-<section id="online-publications" class="pt-5">
-    <h2>Online Publications</h2>
-    <ul>
-        <li><a href="https://www.icelds.org/2018/03/02/gis-technologies-in-ethno-political-studies-spatial-localization-of-ethnic-groups/" target="_blank">GIS Technologies in Ethno-Political Studies: Spatial Localization of Ethnic Groups</a>.</li>
-        <li>Rogov, K., & Minaeva, E. (2022). <a href="https://re-russia.net/en/analytics/023/" target="_blank">The Journey from 1945 to 1941</a>.</li>
-        <li>Ross, S., Serebrennikov, D., Minaeva, E., & Netyaev, V. (2024). Surveillance Technologies in Autocratic Regimes: The Moscow AI Experiment and its Implications for Crime Control and Police Effectiveness. Available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4789135" target="_blank">SSRN</a>.</li>
-    </ul>
-</section>
-
-<section id="grants" class="pt-5">
-    <h2>Grants</h2>
-    <ul>
-        <li><a href="https://rscf.ru/en/" target="_blank">Russian Science Foundation</a> <span style="float:right;">2018 — 2023</span><br>
-            Collective Grant for Russian Scholars<br>
-            <a href="http://urbanconflictsrussia.ru/" target="_blank">Mechanisms of Interests Coordination in the Urban Development Processes</a>
-        </li>
-        
-        <li><a href="https://oxfordrussia.ru/about/whoweare/" target="_blank">Oxford Russia Fellowship</a> <span style="float:right;">2020 — 2021</span><br>
-            Individual Grant for Young Russian Scholars<br>
-            <i>Political Consequences of the Implementation of Municipal Heads’ Appointments in Russia</i>
-        </li>
-        
-        <li><a href="https://www.rfbr.ru/rffi/eng" target="_blank">Russian Foundation for Basic Research</a> <span style="float:right;">2019 — 2021</span><br>
-            Collective Grant for Russian Scholars<br>
-            <i>Spatial Localization of Ethnic Minorities within the Framework of Political-Administrative Boundaries as a Factor of Politicization of Ethnicity on Sub-National Level: Russian Practices in the Context of World Experience</i>
-        </li>
-        
-        <li><a href="https://www.volkswagenstiftung.de/en/funding" target="_blank">Volkswagen Foundation</a> <span style="float:right;">2019 — 2021</span><br>
-            Collective Grant for Interdisciplinary and International Research<br>
-            <a href="https://triparblog.wordpress.com/" target="_blank">Shifting Paradigms: Towards Participatory and Effective Urban Planning in Germany, Russia and Ukraine</a>
-        </li>
-        
-        <li><a href="https://rscf.ru/en/" target="_blank">Russian Science Foundation</a> <span style="float:right;">2015 — 2017</span><br>
-            Collective Grant for Russian Scholars<br>
-            <a href="http://identityworld.ru/index/atlas_era_eng/0-6" target="_blank">Securing a Balance in Interethnic Relations: Regional autonomies, the State Integrity and the Rights of Ethnic Minorities</a>
-        </li>
-    </ul>
-</section>
+</body>
+</html>
