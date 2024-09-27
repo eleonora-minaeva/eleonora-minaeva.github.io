@@ -1,13 +1,14 @@
 <div class="col-md-4 pt-5">
     <div class="fixed-posi">
+        <!-- Name -->
         <p class="name text-right">Eleonora Minaeva</p>
-        <!-- Insert photo -->
-        <img src="images/profile.jpg" class="profilepic pt-3 pb-2" alt="Profile Picture">
+        <!-- Profile Picture -->
+        <img src="eleonora-minaeva-main-pic.jpg" class="profilepic pt-3 pb-2" alt="Profile Picture">
         <!-- Contact Information -->
         <p class="text-right">Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
         <p class="text-right">LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></p>
         <!-- CV Download Link -->
-        <p class="text-right"><a href="cv/your-cv.pdf" target="_blank">Download CV</a></p>
+        <p class="text-right"><a href="CV-Sep-2024.pdf" target="_blank">Download CV</a></p>
     </div>
 </div>
 
