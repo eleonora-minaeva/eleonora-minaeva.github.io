@@ -1,0 +1,76 @@
+/* Profile picture */
+.profilepic {
+    float: left;  /* Keep it left aligned */
+    width: 120px; /* Smaller size */
+    border-radius: 50%; /* Keep it circular */
+    /* Add grayscale filter for a unique effect */
+    filter: grayscale(20%);
+}
+
+/* Contact and links styling */
+a:hover {
+    text-decoration: none;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+
+/* Font sizes and weights */
+.noter {
+    font-size: 9pt;
+}
+
+.semi-bold {
+    font-weight: 550;
+}
+
+/* Additional spacing for tags */
+.tagsep {
+    padding: 4px;
+}
+
+.tag {
+    padding-right: 2px;
+}
+
+/* Styling for strong elements */
+strong {
+    font-weight: bold;
+}
+
+/* Hover effect for menu links */
+.menulink:hover {
+    color: #111;
+}
+
+/* Abstract section interaction (if used in your page) */
+.abstract-link {
+    color: #333;
+    cursor: pointer;
+}
+
+.abstract-content {
+    display: none;
+}
+
+.abstract-arrow::before {
+    content: '\25B6'; /* Right arrow */
+    margin-right: 5px;
+}
+
+.abstract-content-show .abstract-arrow::before {
+    content: '\25BC'; /* Down arrow */
+}
+
+/* Responsive design */
+@media (min-width: 768px) {
+    .fixed-posi {
+        position: right;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .profilepic {
+        width: 150px; /* Slightly larger profile picture on smaller screens */
+        float: right;
+    }
+}
