@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+/* Apply the color palette to headings */
+h1 {
+    color: #C70039; /* Red */
+}
+
+h2 {
+    color: #FF5733; /* Bright red-orange */
+}
+
+h3 {
+    color: #FFC300; /* Yellow-orange */
+}
+
+h4 {
+    color: #900C3F; /* Deep red */
+}
+
+h5 {
+    color: #581845; /* Dark purple */
+}
+
+h6 {
+    color: #DAF7A6; /* Light green for balance */
+}
+
+/* Apply colors to links */
+a {
+    color: #C70039; /* Red */
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #900C3F; /* Deep red on hover */
+}
