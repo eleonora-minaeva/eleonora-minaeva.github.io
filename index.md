@@ -3,9 +3,13 @@ layout: default
 title: Eleonora Minaeva
 ---
 
-# Eleonora Minaeva
-![Eleonora Minaeva](eminaeva-pic.jpg)
-PhD Researcher in Political Science at the [European University Institute](https://www.eui.eu/people?id=eleonora-minaeva).
+<div style="display: flex; align-items: center;">
+  <img src="eminaeva-pic.jpg" alt="Eleonora Minaeva" style="width: 120px; height: 120px; border-radius: 50%; margin-right: 20px;">
+  <div>
+    <h1>Eleonora Minaeva</h1>
+    <p>PhD Researcher in Political Science at the <a href="https://www.eui.eu/people?id=eleonora-minaeva" target="_blank">European University Institute</a></p>
+  </div>
+</div>
 
 ## About Me
 I am a Doctoral Researcher in the Social and Political Sciences Department at the [European University Institute](https://www.eui.eu/people?id=eleonora-minaeva). In the upcoming spring semester, I will be visiting the George Washington University and the Institute for European, Russian, and Eurasian Studies.
