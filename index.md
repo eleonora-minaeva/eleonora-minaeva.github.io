@@ -1,8 +1,3 @@
----
-layout: default
-title: Eleonora Minaeva
----
-
 <div style="display: flex; align-items: center;">
   <img src="eminaeva-pic.jpg" alt="Eleonora Minaeva" style="width: 120px; height: 120px; border-radius: 50%; margin-right: 20px;">
   <div>
