@@ -4,6 +4,7 @@ title: Eleonora Minaeva
 ---
 
 # Eleonora Minaeva
+![Eleonora Minaeva](eminaeva-pic.jpg)
 PhD Researcher in Political Science at the [European University Institute](https://www.eui.eu/people?id=eleonora-minaeva).
 
 ## About Me
@@ -11,7 +12,6 @@ I am a Doctoral Researcher in the Social and Political Sciences Department at th
 
 ## Contact Information
 - **Email:** [eleonora.minaeva@eui.eu](mailto:eleonora.minaeva@eui.eu)
-- **GitHub:** [eminaeva](https://github.com/eminaeva) 
 - [Download CV](CV-Sep-2024.pdf)
 
 ## Current Projects
