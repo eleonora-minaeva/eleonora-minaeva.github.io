@@ -15,7 +15,7 @@ Last year, I taught the [Introduction to R](https://github.com/eminaeva/IntroR) 
 
 ## Publications
 1. Minaeva, E., Rumiantseva, A., Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
-2. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), *Varieties of Russian Activism: State-Society Contestation in Everyday Life*. Bloomington: Indiana University Press.
+2. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
 3. Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. *Universe of Russia. Sociology. Ethnology*, Vol. 31, Issue 2: 97-117. *(In Russian)*.
 4. Minaeva, E., Panov, P. (2021). Dense Networks, Ethnic Minorities, and Electoral Mobilization in Contemporary Russia. *Problems of Post-Communism*, DOI: [10.1080/10758216.2021.1974885](https://doi.org/10.1080/10758216.2021.1974885).
 
