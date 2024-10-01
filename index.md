@@ -3,7 +3,7 @@ I am a [Doctoral Researcher](https://www.eui.eu/people?id=eleonora-minaeva) in t
 
 ## Contact Information
 - **Email:** [eleonora.minaeva@eui.eu](mailto:eleonora.minaeva@eui.eu)
-- [Download CV](CV-Sep-2024.pdf)
+- [Download CV](CV-2024.pdf)
 
 ## Current Projects
 I specialize in comparative studies of authoritarian regimes, with a focus on the politics of post-communist countries. My research projects investigate local politics, urban protests, and interethnic relations in non-democratic systems. My current dissertation projects examine how dictators manipulate subnational institutions, specifically addressing two key questions: **Why do authoritarian regimes decentralize? And if already decentralized, why do they reverse it?** This study analyzes the factors that predict the introduction and cancellation of public elections at the subnational level across autocratic regimes worldwide.
