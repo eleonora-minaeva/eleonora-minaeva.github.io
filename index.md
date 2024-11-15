@@ -1,5 +1,5 @@
 ## About Me
-I am a [Doctoral Researcher](https://www.eui.eu/people?id=eleonora-minaeva) in the Social and Political Sciences Department at the European University Institute. In the upcoming spring semester, I will be visiting the George Washington University and the Institute for European, Russian, and Eurasian Studies.
+I am a Doctoral Researcher in the Social and Political Sciences Department at [the European University Institute](https://www.eui.eu/people?id=eleonora-minaeva). In the upcoming spring semester, I will be visiting the George Washington University and the Institute for European, Russian, and Eurasian Studies.
 
 ## Contact Information
 - **Email:** [eleonora.minaeva@eui.eu](mailto:eleonora.minaeva@eui.eu)
