@@ -6,53 +6,45 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 ## Current Projects and Working Papers
 
 **Solo-authored**
-- *Citizens’ Perceptions of Local Government under Centralized Rule: A Survey Experiment in Russia*
-<details>
-<summary><em>Abstract</em></summary>
-
-<em>
+- Citizens’ Perceptions of Local Government under Centralized Rule: A Survey Experiment in Russia
+<details class="inline-abstract">
+ <summary>Abstract</summary>
+    <em>
 Autocrats often replace elected local officials with appointed administrators, prioritizing vertical loyalty over downward accountability. Yet little is known about how citizens interpret such changes. Do local elections still shape perceptions of legitimacy when they no longer ensure meaningful representation? This study examines how Russians evaluate mayors under institutional centralization, using a nationally representative vignette experiment. I test how citizens respond to four elite cues: local embeddedness, selection mode, professional background, and leadership style. The findings show that citizens meaningfully differentiate among local officials, even in the absence of programmatic politics or real autonomy. Electoral selection and local origin significantly boost perceived trust, effectiveness, and representativeness—especially among regime skeptics and protest participants. Loyalist citizens, by contrast, tend to favor appointed, administrative, and compromise-oriented profiles. These results highlight two distinct pathways through which local elections matter: as signals of democratic inclusion for some, and as proxies for managerial competence for others. The study contributes to research on authoritarian legitimation by showing how symbolic cues continue to shape citizen evaluations from below, even when real accountability has been hollowed out.
-
 </em>
-
 </details>
 
-- *Why Autocrats (De)centralize Electoral Authority: Explaining the Introduction and Cancellation of Subnational Elections*
+- Why Autocrats (De)centralize Electoral Authority: Explaining the Introduction and Cancellation of Subnational Elections
 
 **Co-authored**
-- *Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan*  
+- Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan  
   (with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Thomas Hazell](https://www.politics.ox.ac.uk/person/thomas-hazell))
-<details>
-<summary><em>Abstract</em></summary>
-
-<em>
+<details class="inline-abstract">
+ <summary>Abstract</summary>
+    <em>
 This study examines the introduction of local executive elections in Kazakhstan, where rural executives (\textit{akim}s) were previously appointed through a centralized system. We analyze the impact of these elections on elite turnover and recruitment, leveraging a complete dataset of all subdistrict elections and a pilot study of akim biographies. Elections resulted in frequent leadership replacement. Nevertheless, we show that they did not result in inclusion of a broader group of local or the selection of more locally-embedded officials. The results suggest that elections may serve more to formalize the renewal of the same bureaucratic elite than to co-opt new groups or widen access to power. 
 </em>
-
 </details>
 
-- *The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan*  
+- The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan  
   (with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Thomas Hazell](https://www.politics.ox.ac.uk/person/thomas-hazell))
 
-- *Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment*  
+- Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment  
   (with [Dmitriy Serebrennikov](https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru) and Sergey Ross)
-<details>
-<summary><em>Abstract</em></summary>
-
+<details class="inline-abstract">
+ <summary>Abstract</summary>
 <em>
 This article examines the political logic of digital surveillance deployment in contemporary authoritarian governance through the case of Moscow’s AI Experiment. We ask whether the expansion of facial recognition–enabled CCTV reflects a logic of performative legitimacy—improving policing effectiveness—or a logic of infrastructural political control, whereby surveillance infrastructure is expanded in response to protest activity. Using original spatially and temporally disaggregated data on CCTV installation, district-level crime clearance, and protest events in which detentions occurred, we provide the first systematic empirical test of these competing logics in Russia. Empirically, we combine district-level panel models of crime clearance before and after the 2020 rollout of facial recognition with models predicting the expansion of public-space CCTV. The results reveal a sharp asymmetry. Facial recognition is only weakly and inconsistently associated with improvements in crime clearance, and only at the aggregate level. By contrast, the expansion of public-space surveillance is strongly and spatially linked to recent protest activity, independent of crime dynamics and prior surveillance density. These findings show that digital surveillance in Russia is deployed less to deliver measurable policing gains than to reorganize urban space in ways that lower the future costs of monitoring and intervention. More broadly, the study demonstrates how technocratic digitalization enables authoritarian regimes to translate episodes of protest into durable infrastructural capacity.
 </em>
-
 </details>
-- *Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation*  
-  (with [Filip Kostelka](https://filipkostelka.com) et al.)
-<details>
-<summary><em>Abstract</em></summary>
 
-<em>
+- Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation  
+  (with [Filip Kostelka](https://filipkostelka.com) et al.)
+<details class="inline-abstract">
+ <summary>Abstract</summary>
+    <em>
 This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans express dismay at Russia's aggression against Ukraine, more ambivalent or even pro-Kremlin positions are not rare. Drawing on the literature on foreign policy and wars, we hypothesize that support for the aggressor may reflect a quartet of factors: economic interests, ideological preferences, political cues, and disinformation. We probe the role of these factors using two types of survey data. The first is an original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning over 12,000 respondents. The other is the Solidarity in Europe survey with more than 24,000 respondents from seventeen countries. The results of three types of analyses reveal that neutral and pro-Kremlin attitudes, held by sizeable segments of European society, are most strongly linked to the positions of respondents’ preferred political parties, followed by disinformation and ideology. Overall, top-down models of public opinion seem to explain better within-country variations in attitudes towards the conflict than bottom-up models. These findings, which should be interpreted carefully, carry important implications for containing Russia's influence over Europe's public opinion and contribute to the literature on public preference formation in the field of foreign policy. 
 </em>
-
 </details>
 
 ## Methods and Expertise
