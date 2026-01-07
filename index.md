@@ -3,7 +3,7 @@ I am a Doctoral Researcher in the Department of Social and Political Sciences at
 
 From January to May 2025, I was a Visiting Scholar at the [Institute for European, Russian and Eurasian Studies (IERES)](https://ieres.elliott.gwu.edu/about-us/visiting-scholars/) at George Washington University in Washington, DC. Prior to my doctoral studies, I held research and teaching positions at the European University at St. Petersburg and Perm State University. 
 
-I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
+I am currently on the job market and open to academic, policy-oriented, and applied research positions.
 
 ## Current Projects and Working Papers
 
