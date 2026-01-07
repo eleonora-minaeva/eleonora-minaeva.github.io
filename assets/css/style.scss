@@ -2,53 +2,26 @@
 ---
 
 @import "{{ site.theme }}";
-/* Apply the color palette to headings */
-h1 {
-    color: #C70039; /* Red */
-}
 
-h2 {
-    color: #000000; /* Black */
-}
+/* ======================
+   General styling
+====================== */
 
-h3 {
-    color: #FFC300; /* Yellow-orange */
-}
+h1 { color: #C70039; }
+h2 { color: #000000; }
+h3 { color: #FFC300; }
+h4 { color: #900C3F; }
+h5 { color: #581845; }
+h6 { color: #DAF7A6; }
 
-h4 {
-    color: #900C3F; /* Deep red */
-}
-
-h5 {
-    color: #581845; /* Dark purple */
-}
-
-h6 {
-    color: #DAF7A6; /* Light green for balance */
-}
-
-/* Apply colors to links */
 a {
-    color: #C70039; /* Red */
+  color: #C70039;
 }
 
-/* Change link color on hover */
 a:hover {
-    color: #900C3F; /* Deep red on hover */
+  color: #900C3F;
 }
 
-.contact-block {
-  margin-top: 1rem;
-}
-
-.contact-line {
-  margin: 0.5rem 0 0.25rem 0;
-}
-
-.contact-links {
-  margin: 0;
-  line-height: 1.6;
-}
 header img {
   max-width: 180px;
   height: auto;
@@ -57,14 +30,21 @@ header img {
   margin-bottom: 1rem;
 }
 
-/* === Papers & abstracts layout === */
+/* ======================
+   Papers: layout & rhythm
+====================== */
 
-.paper-links {
-  display: inline;
-  margin-left: 0.6rem;
+section ul {
+  margin-top: 0.6rem;
 }
 
-/* === Papers: Abstract toggle via :target === */
+section ul li {
+  margin-bottom: 1.6rem;
+}
+
+/* ======================
+   Abstract toggle (anchor-based)
+====================== */
 
 .paper-links {
   display: inline;
@@ -84,7 +64,7 @@ header img {
   border-bottom-color: rgba(144,12,63,0.5);
 }
 
-/* скрыто по умолчанию */
+/* abstract скрыт по умолчанию */
 .paper-abstract {
   display: none;
   margin-top: 0.6rem;
@@ -93,38 +73,7 @@ header img {
   line-height: 1.6;
 }
 
-/* показываем, когда кликнули на ссылку с этим id */
-.paper-abstract:target {
-  display: block;
-}
-
-/* одинаковые отступы между items */
-section ul li {
-  margin-bottom: 1.6rem;
-}
-
-
-/* === Normalize spacing between papers === */
-
-section ul {
-  margin-top: 0.6rem;
-}
-
-section ul li {
-  margin-bottom: 1.6rem;
-}
-
-/* === Abstract toggle (papers) === */
-
-.paper-abstract {
-  display: none;
-  margin-top: 0.6rem;
-  margin-left: 1.5rem;
-  color: #555;
-  line-height: 1.6;
-}
-
-/* показываем abstract, когда на него кликнули */
+/* abstract показывается по клику */
 .paper-abstract:target {
   display: block;
 }
