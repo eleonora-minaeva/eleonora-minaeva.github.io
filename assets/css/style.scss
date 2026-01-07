@@ -77,3 +77,19 @@ section ul li {
 .paper-abstract:target {
   display: block;
 }
+
+.abstract-close {
+  margin-top: 0.4rem;
+}
+
+.abstract-close a {
+  font-size: 0.9em;
+  font-style: italic;
+  color: #888;
+  text-decoration: none;
+}
+
+.abstract-close a:hover {
+  color: #900C3F;
+  text-decoration: underline;
+}
