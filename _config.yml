@@ -1,12 +1,16 @@
-name: Eleonora Minaeva
-description: PhD Researcher in Political Science  
-institution: European University Institute
+theme: jekyll-theme-orderedlist
+
+title: Eleonora Minaeva
+author: Eleonora Minaeva
+position: PhD Researcher in Political Science
+affiliation: European University Institute
 
 email: eleonora.minaeva@eui.eu
 
-picture: /assets/images/eminaeva-pic.jpg
+avatar: /assets/images/eminaeva-pic.jpg
 
-cv: CV-2025.pdf
-google_scholar: https://scholar.google.com/citations?user=m_UTmvAAAAAJ&hl=en
-linkedin: https://www.linkedin.com/in/eleonora-minaeva-b84929125/
-github: https://github.com/eminaeva
+social:
+  cv: CV-2025.pdf
+  github: https://github.com/eminaeva
+  scholar: https://scholar.google.com/citations?user=m_UTmvAAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/eleonora-minaeva-b84929125/
