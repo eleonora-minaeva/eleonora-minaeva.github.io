@@ -109,3 +109,18 @@ section ul {
 section ul li {
   margin-bottom: 1.6rem;
 }
+
+/* === Abstract toggle (papers) === */
+
+.paper-abstract {
+  display: none;
+  margin-top: 0.6rem;
+  margin-left: 1.5rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+/* показываем abstract, когда на него кликнули */
+.paper-abstract:target {
+  display: block;
+}
