@@ -63,14 +63,15 @@ header img {
 }
 
 .inline-abstract {
-  display: inline;
+  margin-top: 0.2rem;
+  margin-bottom: 0.8rem;
 }
 
 .inline-abstract summary {
-  display: inline;
   cursor: pointer;
   font-style: italic;
   color: #666;
+  list-style: none;
 }
 
 .inline-abstract summary::marker {
@@ -79,8 +80,9 @@ header img {
 
 .inline-abstract em {
   display: block;
-  margin-top: 0.5rem;
+  margin-top: 0.4rem;
   margin-left: 1.5rem;
   color: #555;
   line-height: 1.6;
 }
+
