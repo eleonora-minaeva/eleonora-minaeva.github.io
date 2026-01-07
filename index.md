@@ -33,8 +33,6 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 
 **Co-authored**
 
-**Co-authored**
-
 <ul>
 
   <li>
@@ -137,12 +135,16 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 
 ## Methods and Expertise
 
+<div class="methods-list">
+
 - Quantitative analysis of panel and cross-sectional data    
 - Quasi-experimental designs
 - Survey research and survey experiments 
 - Qualitative interviews  
 - Subnational administrative, electoral and protest data  
 - Research on public attitudes, elite strategies, authoritarianism and technocracy
+
+</div>
 
 
 ## Research Projects and Collaborations
