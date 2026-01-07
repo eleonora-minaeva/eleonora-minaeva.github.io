@@ -30,55 +30,110 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 </li>
 
 </ul>
+
 **Co-authored**
 
-- Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan  
-  (with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Thomas Hazell](https://www.politics.ox.ac.uk/person/thomas-hazell))  
-  <span class="paper-links">
-    <a href="#abs-kazakhstan-elites">[Abstract]</a>
-  </span>
+**Co-authored**
 
-  <div id="abs-kazakhstan-elites" class="paper-abstract">
-    <em>
-    This study examines the introduction of local executive elections in Kazakhstan, where rural executives (\textit{akim}s) were previously appointed through a centralized system. We analyze the impact of these elections on elite turnover and recruitment, leveraging a complete dataset of all subdistrict elections and a pilot study of akim biographies. Elections resulted in frequent leadership replacement. Nevertheless, we show that they did not result in inclusion of a broader group of local or the selection of more locally-embedded officials. The results suggest that elections may serve more to formalize the renewal of the same bureaucratic elite than to co-opt new groups or widen access to power. 
-    </em>
-  <div class="abstract-close">
-    <a href="#">Close</a>
-  </div>
-</div>
+<ul>
 
-- The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan  
-  (with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Thomas Hazell](https://www.politics.ox.ac.uk/person/thomas-hazell))
+  <li>
+    Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan<br>
+    (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
+    <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
+    <span class="paper-links">
+      <a href="#abs-kazakhstan-elites">[Abstract]</a>
+    </span>
 
-- Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment  
-  (with [Dmitriy Serebrennikov](https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru) and Sergey Ross)  
-  <span class="paper-links">
-    <a href="#abs-surveillance">[Abstract]</a>
-  </span>
+    <div id="abs-kazakhstan-elites" class="paper-abstract">
+      <em>
+        This study examines the introduction of local executive elections in Kazakhstan, where rural executives
+        (<em>akim</em>s) were previously appointed through a centralized system. We analyze the impact of these
+        elections on elite turnover and recruitment, leveraging a complete dataset of all subdistrict elections
+        and a pilot study of akim biographies. Elections resulted in frequent leadership replacement. Nevertheless,
+        we show that they did not result in inclusion of a broader group of local or the selection of more
+        locally-embedded officials. The results suggest that elections may serve more to formalize the renewal of
+        the same bureaucratic elite than to co-opt new groups or widen access to power.
+      </em>
 
-  <div id="abs-surveillance" class="paper-abstract">
-    <em>
-    This article examines the political logic of digital surveillance deployment in contemporary authoritarian governance through the case of Moscow’s AI Experiment. We ask whether the expansion of facial recognition–enabled CCTV reflects a logic of performative legitimacy—improving policing effectiveness—or a logic of infrastructural political control, whereby surveillance infrastructure is expanded in response to protest activity. Using original spatially and temporally disaggregated data on CCTV installation, district-level crime clearance, and protest events in which detentions occurred, we provide the first systematic empirical test of these competing logics in Russia. Empirically, we combine district-level panel models of crime clearance before and after the 2020 rollout of facial recognition with models predicting the expansion of public-space CCTV. The results reveal a sharp asymmetry. Facial recognition is only weakly and inconsistently associated with improvements in crime clearance, and only at the aggregate level. By contrast, the expansion of public-space surveillance is strongly and spatially linked to recent protest activity, independent of crime dynamics and prior surveillance density. These findings show that digital surveillance in Russia is deployed less to deliver measurable policing gains than to reorganize urban space in ways that lower the future costs of monitoring and intervention. More broadly, the study demonstrates how technocratic digitalization enables authoritarian regimes to translate episodes of protest into durable infrastructural capacity.
-    </em>
-  <div class="abstract-close">
-    <a href="#">Close</a>
-  </div>
-</div>
+      <div class="abstract-close">
+        <a href="#">Close</a>
+      </div>
+    </div>
+  </li>
 
-- Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation  
-  (with [Filip Kostelka](https://filipkostelka.com) et al.)  
-  <span class="paper-links">
-    <a href="#abs-war-attitudes">[Abstract]</a>
-  </span>
+  <li>
+    The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan<br>
+    (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
+    <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
+  </li>
 
-  <div id="abs-war-attitudes" class="paper-abstract">
-    <em>
-    This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans express dismay at Russia's aggression against Ukraine, more ambivalent or even pro-Kremlin positions are not rare. Drawing on the literature on foreign policy and wars, we hypothesize that support for the aggressor may reflect a quartet of factors: economic interests, ideological preferences, political cues, and disinformation. We probe the role of these factors using two types of survey data. The first is an original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning over 12,000 respondents. The other is the Solidarity in Europe survey with more than 24,000 respondents from seventeen countries. The results of three types of analyses reveal that neutral and pro-Kremlin attitudes, held by sizeable segments of European society, are most strongly linked to the positions of respondents’ preferred political parties, followed by disinformation and ideology. Overall, top-down models of public opinion seem to explain better within-country variations in attitudes towards the conflict than bottom-up models. These findings, which should be interpreted carefully, carry important implications for containing Russia's influence over Europe's public opinion and contribute to the literature on public preference formation in the field of foreign policy.
-    </em>
-  <div class="abstract-close">
-    <a href="#">Close</a>
-  </div>
-</div>
+  <li>
+    Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment<br>
+    (with <a href="https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru">Dmitriy Serebrennikov</a> and
+    Sergey Ross)
+    <span class="paper-links">
+      <a href="#abs-surveillance">[Abstract]</a>
+    </span>
+
+    <div id="abs-surveillance" class="paper-abstract">
+      <em>
+        This article examines the political logic of digital surveillance deployment in contemporary authoritarian
+        governance through the case of Moscow’s AI Experiment. We ask whether the expansion of facial
+        recognition–enabled CCTV reflects a logic of performative legitimacy—improving policing effectiveness—or
+        a logic of infrastructural political control, whereby surveillance infrastructure is expanded in response
+        to protest activity. Using original spatially and temporally disaggregated data on CCTV installation,
+        district-level crime clearance, and protest events in which detentions occurred, we provide the first
+        systematic empirical test of these competing logics in Russia. Empirically, we combine district-level panel
+        models of crime clearance before and after the 2020 rollout of facial recognition with models predicting
+        the expansion of public-space CCTV. The results reveal a sharp asymmetry. Facial recognition is only weakly
+        and inconsistently associated with improvements in crime clearance, and only at the aggregate level. By
+        contrast, the expansion of public-space surveillance is strongly and spatially linked to recent protest
+        activity, independent of crime dynamics and prior surveillance density. These findings show that digital
+        surveillance in Russia is deployed less to deliver measurable policing gains than to reorganize urban space
+        in ways that lower the future costs of monitoring and intervention. More broadly, the study demonstrates
+        how technocratic digitalization enables authoritarian regimes to translate episodes of protest into durable
+        infrastructural capacity.
+      </em>
+
+      <div class="abstract-close">
+        <a href="#">Close</a>
+      </div>
+    </div>
+  </li>
+
+  <li>
+    Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
+    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.)
+    <span class="paper-links">
+      <a href="#abs-war-attitudes">[Abstract]</a>
+    </span>
+
+    <div id="abs-war-attitudes" class="paper-abstract">
+      <em>
+        This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans
+        express dismay at Russia's aggression against Ukraine, more ambivalent or even pro-Kremlin positions are
+        not rare. Drawing on the literature on foreign policy and wars, we hypothesize that support for the
+        aggressor may reflect a quartet of factors: economic interests, ideological preferences, political cues,
+        and disinformation. We probe the role of these factors using two types of survey data. The first is an
+        original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning
+        over 12,000 respondents. The other is the Solidarity in Europe survey with more than 24,000 respondents from
+        seventeen countries. The results of three types of analyses reveal that neutral and pro-Kremlin attitudes,
+        held by sizeable segments of European society, are most strongly linked to the positions of respondents’
+        preferred political parties, followed by disinformation and ideology. Overall, top-down models of public
+        opinion seem to explain better within-country variations in attitudes towards the conflict than bottom-up
+        models. These findings, which should be interpreted carefully, carry important implications for containing
+        Russia's influence over Europe's public opinion and contribute to the literature on public preference
+        formation in the field of foreign policy.
+      </em>
+
+      <div class="abstract-close">
+        <a href="#">Close</a>
+      </div>
+    </div>
+  </li>
+
+</ul>
 
 ## Methods and Expertise
 
