@@ -9,7 +9,7 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 
 - Citizens’ Perceptions of Local Government under Centralized Rule: A Survey Experiment in Russia  
   <span class="paper-links">
-    <a href="#abs-local-gov">Abstract</a>
+    <a href="#abs-local-gov">[Abstract]</a>
   </span>
 
   <div id="abs-local-gov" class="paper-abstract">
@@ -26,7 +26,7 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 - Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan  
   (with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Thomas Hazell](https://www.politics.ox.ac.uk/person/thomas-hazell))  
   <span class="paper-links">
-    <a href="#abs-kazakhstan-elites">Abstract</a>
+    <a href="#abs-kazakhstan-elites">[Abstract]</a>
   </span>
 
   <div id="abs-kazakhstan-elites" class="paper-abstract">
@@ -41,7 +41,7 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 - Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment  
   (with [Dmitriy Serebrennikov](https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru) and Sergey Ross)  
   <span class="paper-links">
-    <a href="#abs-surveillance">Abstract</a>
+    <a href="#abs-surveillance">[Abstract]</a>
   </span>
 
   <div id="abs-surveillance" class="paper-abstract">
@@ -53,7 +53,7 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 - Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation  
   (with [Filip Kostelka](https://filipkostelka.com) et al.)  
   <span class="paper-links">
-    <a href="#abs-war-attitudes">Abstract</a>
+    <a href="#abs-war-attitudes">[Abstract]</a>
   </span>
 
   <div id="abs-war-attitudes" class="paper-abstract">
