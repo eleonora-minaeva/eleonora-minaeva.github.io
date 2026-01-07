@@ -96,14 +96,16 @@ section ul li {
 }
 
 /* ======================
-   Methods & Expertise: tighter list
+   Methods & Expertise list
 ====================== */
 
-.methods-list ul {
-  margin-top: 0.3rem;
+.methods-list {
+  margin-top: 0.6rem;
+  padding-left: 1.2rem;
 }
 
 .methods-list li {
-  margin-bottom: 0.4rem;   /* вместо 1.6rem */
-  line-height: 1.35;       /* компактнее, но читабельно */
+  display: list-item;        /* КЛЮЧЕВОЕ */
+  margin-bottom: 0.4rem;     /* плотнее, чем papers */
+  line-height: 1.4;
 }
