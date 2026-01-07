@@ -6,24 +6,30 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 ## Current Projects and Working Papers
 
 **Solo-authored**
+<ul>
 
-- Citizens’ Perceptions of Local Government under Centralized Rule: A Survey Experiment in Russia  
+<li>
+  Citizens’ Perceptions of Local Government under Centralized Rule: A Survey Experiment in Russia
   <span class="paper-links">
     <a href="#abs-local-gov">[Abstract]</a>
   </span>
 
   <div id="abs-local-gov" class="paper-abstract">
     <em>
-    Autocrats often replace elected local officials with appointed administrators, prioritizing vertical loyalty over downward accountability. Yet little is known about how citizens interpret such changes. Do local elections still shape perceptions of legitimacy when they no longer ensure meaningful representation? This study examines how Russians evaluate mayors under institutional centralization, using a nationally representative vignette experiment. I test how citizens respond to four elite cues: local embeddedness, selection mode, professional background, and leadership style. The findings show that citizens meaningfully differentiate among local officials, even in the absence of programmatic politics or real autonomy. Electoral selection and local origin significantly boost perceived trust, effectiveness, and representativeness—especially among regime skeptics and protest participants. Loyalist citizens, by contrast, tend to favor appointed, administrative, and compromise-oriented profiles. These results highlight two distinct pathways through which local elections matter: as signals of democratic inclusion for some, and as proxies for managerial competence for others.
+      Autocrats often replace elected local officials with appointed administrators, prioritizing vertical loyalty over downward accountability. Yet little is known about how citizens interpret such changes. Do local elections still shape perceptions of legitimacy when they no longer ensure meaningful representation? This study examines how Russians evaluate mayors under institutional centralization, using a nationally representative vignette experiment. I test how citizens respond to four elite cues: local embeddedness, selection mode, professional background, and leadership style. The findings show that citizens meaningfully differentiate among local officials, even in the absence of programmatic politics or real autonomy. Electoral selection and local origin significantly boost perceived trust, effectiveness, and representativeness—especially among regime skeptics and protest participants. Loyalist citizens, by contrast, tend to favor appointed, administrative, and compromise-oriented profiles. These results highlight two distinct pathways through which local elections matter: as signals of democratic inclusion for some, and as proxies for managerial competence for others.
     </em>
-  <div class="abstract-close">
-    <a href="#">Close</a>
+
+    <div class="abstract-close">
+      <a href="#">Close</a>
+    </div>
   </div>
-</div>
+</li>
 
-- Why Autocrats (De)centralize Electoral Authority: Explaining the Introduction and Cancellation of Subnational Elections
+<li>
+  Why Autocrats (De)centralize Electoral Authority: Explaining the Introduction and Cancellation of Subnational Elections
+</li>
 
-
+</ul>
 **Co-authored**
 
 - Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan  
