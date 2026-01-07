@@ -1,4 +1,6 @@
-theme: jekyll-theme-orderedlist
+remote_theme: orderedlist/orderedlist
+plugins:
+  - jekyll-remote-theme
 
 title: Eleonora Minaeva
 author: Eleonora Minaeva
