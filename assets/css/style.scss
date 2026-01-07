@@ -56,3 +56,31 @@ header img {
   display: block;
   margin-bottom: 1rem;
 }
+
+.paper-links {
+  display: inline;
+  margin-left: 0.5rem;
+}
+
+.inline-abstract {
+  display: inline;
+}
+
+.inline-abstract summary {
+  display: inline;
+  cursor: pointer;
+  font-style: italic;
+  color: #666;
+}
+
+.inline-abstract summary::marker {
+  display: none;
+}
+
+.inline-abstract em {
+  display: block;
+  margin-top: 0.5rem;
+  margin-left: 1.5rem;
+  color: #555;
+  line-height: 1.6;
+}
