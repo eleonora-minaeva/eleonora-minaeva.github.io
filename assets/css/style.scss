@@ -86,3 +86,36 @@ header img {
   line-height: 1.6;
 }
 
+/* === Normalize spacing between papers === */
+
+/* базовый шаг между всеми papers */
+section ul li {
+  margin-bottom: 1.6rem;   /* можно 1.4–1.8, но будь консистентна */
+}
+
+/* убираем влияние details на внешний ритм */
+.inline-abstract {
+  margin: 0;
+}
+
+/* summary (Abstract) не добавляет лишнего вертикального сдвига */
+.inline-abstract summary {
+  margin-top: 0.3rem;
+  margin-bottom: 0;
+}
+
+/* текст abstract добавляет пространство ТОЛЬКО когда открыт */
+.inline-abstract[open] em {
+  margin-top: 0.6rem;
+  margin-bottom: 0.8rem;
+}
+
+/* закрытый abstract вообще не влияет на расстояние */
+.inline-abstract:not([open]) em {
+  margin: 0;
+}
+
+section ul {
+  margin-top: 0.6rem;
+}
+
