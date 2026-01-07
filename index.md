@@ -21,7 +21,7 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 **Co-authored**
 - Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan  
   (with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Thomas Hazell](https://www.politics.ox.ac.uk/person/thomas-hazell))
-<span class="paper-links">
+  <span class="paper-links">
     <details class="inline-abstract">
       <summary>Abstract</summary>
       <em>
@@ -34,7 +34,7 @@ This study examines the introduction of local executive elections in Kazakhstan,
 
 - Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment  
   (with [Dmitriy Serebrennikov](https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru) and Sergey Ross)
-<span class="paper-links">
+  <span class="paper-links">
     <details class="inline-abstract">
       <summary>Abstract</summary>
       <em>
@@ -44,7 +44,7 @@ This article examines the political logic of digital surveillance deployment in 
 
 - Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation  
   (with [Filip Kostelka](https://filipkostelka.com) et al.)
-<span class="paper-links">
+  <span class="paper-links">
     <details class="inline-abstract">
       <summary>Abstract</summary>
       <em>
