@@ -64,41 +64,45 @@ header img {
   margin-left: 0.6rem;
 }
 
-/* базовое состояние abstract */
-.inline-abstract {
-  margin: 0;
-}
+/* === Papers: Abstract toggle via :target === */
 
-/* кнопка Abstract */
-.inline-abstract summary {
-  cursor: pointer;
+.paper-links {
+  display: inline;
+  margin-left: 0.6rem;
   font-style: italic;
+  font-size: 0.95em;
+}
+
+.paper-links a {
   color: #666;
-  list-style: none;
-  margin-top: 0.3rem;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(102,102,102,0.35);
 }
 
-.inline-abstract summary::marker {
+.paper-links a:hover {
+  color: #900C3F;
+  border-bottom-color: rgba(144,12,63,0.5);
+}
+
+/* скрыто по умолчанию */
+.paper-abstract {
   display: none;
-}
-
-/* текст abstract */
-.inline-abstract em {
-  display: block;
+  margin-top: 0.6rem;
   margin-left: 1.5rem;
   color: #555;
   line-height: 1.6;
 }
 
-/* abstract влияет на ритм ТОЛЬКО когда открыт */
-.inline-abstract[open] em {
-  margin-top: 0.6rem;
-  margin-bottom: 0.8rem;
+/* показываем, когда кликнули на ссылку с этим id */
+.paper-abstract:target {
+  display: block;
 }
 
-.inline-abstract:not([open]) em {
-  margin: 0;
+/* одинаковые отступы между items */
+section ul li {
+  margin-bottom: 1.6rem;
 }
+
 
 /* === Normalize spacing between papers === */
 
