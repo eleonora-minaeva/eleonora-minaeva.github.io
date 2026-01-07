@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
 
+{% seo %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Logo" />
+        {% endif %}
+
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {%- comment -%} ===== Custom contact block starts here ===== {%- endcomment -%}
+        <div class="contact-block">
+          {% if site.email %}
+            <p class="contact-line">
+              <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </p>
+          {% endif %}
+
+          <p class="contact-links">
+            {% if site.cv %}
+              <a href="{{ site.cv | relative_url }}">CV</a>
+            {% endif %}
+            {% if site.github %}
+              {% if site.cv %} · {% endif %}
+              <a href="{{ site.github }}">GitHub</a>
+            {% endif %}
+            {% if site.google_scholar %}
+              {% if site.cv or site.github %} · {% endif %}
+              <a href="{{ site.google_scholar }}">Google Scholar</a>
+            {% endif %}
+            {% if site.linkedin %}
+              {% if site.cv or site.github or site.google_scholar %} · {% endif %}
+              <a href="{{ site.linkedin }}">LinkedIn</a>
+            {% endif %}
+          </p>
+        </div>
+        {%- comment -%} ===== Custom contact block ends here ===== {%- endcomment -%}
+
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        {% if site.github.is_project_page %}
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/pages-themes/minimal">minimal</a></small></p>
+        {% endif %}
+      </footer>
+    </div>
+  </body>
+</html>
