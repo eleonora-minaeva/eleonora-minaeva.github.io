@@ -1,19 +1,3 @@
----
-layout: default
-title: Eleonora Minaeva
----
-
-![Eleonora Minaeva](/assets/images/eminaeva-pic.jpg)
-
-**PhD Researcher in Political Science**  
-European University Institute
-
-📧 [eleonora.minaeva@eui.eu](mailto:eleonora.minaeva@eui.eu)
-
-[Download CV](CV-2025.pdf)  
-[Google Scholar](https://scholar.google.com/citations?user=m_UTmvAAAAAJ&hl=en)  
-[LinkedIn](https://www.linkedin.com/in/eleonora-minaeva-b84929125/)
-
 ## About Me
 I am a Doctoral Researcher in the Department of Social and Political Sciences at the [European University Institute](https://www.eui.eu/people?id=eleonora-minaeva). I am working at the intersection of authoritarian governance, subnational institutions, and public attitudes in non-democratic contexts. My research combines quantitative methods, survey research, quasi-experimental designs, and qualitative interviews to examine how institutional design, elections, and elite strategies shape governance outcomes and citizens’ perceptions of political authority and legitimacy. Substantively, my work focuses on post-communist countries, with a particular emphasis on Russia and Kazakhstan.
 
