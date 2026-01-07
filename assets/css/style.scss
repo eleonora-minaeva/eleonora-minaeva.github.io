@@ -93,3 +93,16 @@ section ul li {
   color: #900C3F;
   text-decoration: underline;
 }
+
+/* ======================
+   Methods & Expertise: tighter list
+====================== */
+
+.methods-list ul {
+  margin-top: 0.3rem;
+}
+
+.methods-list li {
+  margin-bottom: 0.4rem;   /* вместо 1.6rem */
+  line-height: 1.35;       /* компактнее, но читабельно */
+}
