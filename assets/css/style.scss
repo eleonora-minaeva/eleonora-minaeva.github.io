@@ -62,60 +62,55 @@ header img {
   margin-left: 0.5rem;
 }
 
-.inline-abstract {
-  margin-top: 0.2rem;
-  margin-bottom: 0.8rem;
+/* === Papers & abstracts layout === */
+
+.paper-links {
+  display: inline;
+  margin-left: 0.6rem;
 }
 
+/* базовое состояние abstract */
+.inline-abstract {
+  margin: 0;
+}
+
+/* кнопка Abstract */
 .inline-abstract summary {
   cursor: pointer;
   font-style: italic;
   color: #666;
   list-style: none;
+  margin-top: 0.3rem;
 }
 
 .inline-abstract summary::marker {
   display: none;
 }
 
+/* текст abstract */
 .inline-abstract em {
   display: block;
-  margin-top: 0.4rem;
   margin-left: 1.5rem;
   color: #555;
   line-height: 1.6;
 }
 
-/* === Normalize spacing between papers === */
-
-/* базовый шаг между всеми papers */
-section ul li {
-  margin-bottom: 1.6rem;   /* можно 1.4–1.8, но будь консистентна */
-}
-
-/* убираем влияние details на внешний ритм */
-.inline-abstract {
-  margin: 0;
-}
-
-/* summary (Abstract) не добавляет лишнего вертикального сдвига */
-.inline-abstract summary {
-  margin-top: 0.3rem;
-  margin-bottom: 0;
-}
-
-/* текст abstract добавляет пространство ТОЛЬКО когда открыт */
+/* abstract влияет на ритм ТОЛЬКО когда открыт */
 .inline-abstract[open] em {
   margin-top: 0.6rem;
   margin-bottom: 0.8rem;
 }
 
-/* закрытый abstract вообще не влияет на расстояние */
 .inline-abstract:not([open]) em {
   margin: 0;
 }
+
+/* === Normalize spacing between papers === */
 
 section ul {
   margin-top: 0.6rem;
 }
 
+section ul li {
+  margin-bottom: 1.6rem;
+}
