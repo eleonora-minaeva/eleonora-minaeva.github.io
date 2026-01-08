@@ -5,7 +5,7 @@ From January to May 2025, I was a Visiting Scholar at the [Institute for Europea
 
 I am currently on the job market and open to academic, policy-oriented, and applied research positions.
 
-## Current Projects and Working Papers
+## Current Projects and Working Papers (Unpublished)
 
 **Solo-authored**
 <ul>
@@ -175,7 +175,7 @@ I am an associated researcher in *GLOBAL*, an ERC Advanced Grant project led by 
   BA level (Political Science & International Relations), 2020–2022
 
 
-## Selected Publications
+## Journal Publications (Selected)
 1. Minaeva, E., Rumiantseva, A., Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
 2. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
 3. Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. *Universe of Russia. Sociology. Ethnology*, Vol. 31, Issue 2: 97-117. *(In Russian)*.
