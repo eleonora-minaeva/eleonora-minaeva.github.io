@@ -159,7 +159,7 @@ I am a researcher in the international project *Maidan Revolutions, the War in U
 **GLOBAL — European Governance and Politics Programme (ERC Advanced Grant)**  
 ([Project link](https://europeangovernanceandpolitics.eui.eu/global/))
 
-I am an associated researcher in *GLOBAL*, an ERC Advanced Grant project led by Daniele Caramani at the European University Institute. My contribution focuses on data collection and validation for research on global party networks and transnational political organizations. I work on collecting and systematizing data on party memberships and transnational party-linked NGOs, creating benchmark datasets for evaluating large language models, and validating generative AI outputs to construct high-quality datasets for the analysis of global political cleavages.
+I am an assistant in *GLOBAL*, an ERC Advanced Grant project led by Daniele Caramani at the European University Institute. My contribution focuses on data collection and validation for research on global party networks and transnational political organizations. I work on collecting and systematizing data on party memberships and transnational party-linked NGOs, creating benchmark datasets for evaluating large language models, and validating generative AI outputs to construct high-quality datasets for the analysis of global political cleavages.
 
 
 ## Teaching Experience
