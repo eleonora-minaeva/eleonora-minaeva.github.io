@@ -40,37 +40,6 @@ I argue that citizens read the same cues through different political lenses. Amo
 <ul>
 
   <li>
-    Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan<br>
-    (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
-    <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
-    <span class="paper-links">
-      <a href="#abs-kazakhstan-elites">[Abstract]</a>
-    </span>
-
-    <div id="abs-kazakhstan-elites" class="paper-abstract">
-      <em>
-        This study examines the introduction of local executive elections in Kazakhstan, where rural executives
-        (<em>akim</em>s) were previously appointed through a centralized system. We analyze the impact of these
-        elections on elite turnover and recruitment, leveraging a complete dataset of all subdistrict elections
-        and a pilot study of akim biographies. Elections resulted in frequent leadership replacement. Nevertheless,
-        we show that they did not result in inclusion of a broader group of local or the selection of more
-        locally-embedded officials. The results suggest that elections may serve more to formalize the renewal of
-        the same bureaucratic elite than to co-opt new groups or widen access to power.
-      </em>
-
-      <div class="abstract-close">
-        <a href="#">Close</a>
-      </div>
-    </div>
-  </li>
-
-  <li>
-    The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan<br>
-    (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
-    <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
-  </li>
-
-  <li>
     Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment<br>
     (with <a href="https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru">Dmitriy Serebrennikov</a> and
     Sergey Ross)
@@ -106,7 +75,7 @@ I argue that citizens read the same cues through different political lenses. Amo
 
   <li>
     Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
-    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.)
+    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) -- Accepted in the European Journal of Political Research.
     <span class="paper-links">
       <a href="#abs-war-attitudes">[Abstract]</a>
     </span>
@@ -135,6 +104,37 @@ I argue that citizens read the same cues through different political lenses. Amo
     </div>
   </li>
 
+  <li>
+    Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan<br>
+    (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
+    <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
+    <span class="paper-links">
+      <a href="#abs-kazakhstan-elites">[Abstract]</a>
+    </span>
+
+    <div id="abs-kazakhstan-elites" class="paper-abstract">
+      <em>
+        This study examines the introduction of local executive elections in Kazakhstan, where rural executives
+        (<em>akim</em>s) were previously appointed through a centralized system. We analyze the impact of these
+        elections on elite turnover and recruitment, leveraging a complete dataset of all subdistrict elections
+        and a pilot study of akim biographies. Elections resulted in frequent leadership replacement. Nevertheless,
+        we show that they did not result in inclusion of a broader group of local or the selection of more
+        locally-embedded officials. The results suggest that elections may serve more to formalize the renewal of
+        the same bureaucratic elite than to co-opt new groups or widen access to power.
+      </em>
+
+      <div class="abstract-close">
+        <a href="#">Close</a>
+      </div>
+    </div>
+  </li>
+
+  <li>
+    The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan<br>
+    (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
+    <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
+  </li>
+
 </ul>
 
 ## Methods and Expertise
@@ -145,7 +145,7 @@ I argue that citizens read the same cues through different political lenses. Amo
   <li>Survey research and survey experiments</li>
   <li>Qualitative interviews</li>
   <li>Subnational administrative, electoral and protest data</li>
-  <li>Research on public attitudes, elite strategies, authoritarianism and technocracy</li>
+  <li>Research on public attitudes, elite strategies, technocracy and authoritarianism</li>
 </ul>
 
 
