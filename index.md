@@ -1,5 +1,9 @@
 ## About Me
-I am a Doctoral Researcher in the Department of Social and Political Sciences at the [European University Institute](https://www.eui.eu/people?id=eleonora-minaeva). I am working at the intersection of authoritarian governance, subnational institutions, and public attitudes in non-democratic contexts. My research combines quantitative methods, quasi-experimental designs, surveys and interviews to examine how institutional design, elections, and elite strategies shape governance outcomes and citizens’ perceptions of political authority and legitimacy. Substantively, my work focuses on post-communist countries, with a particular emphasis on Russia and Kazakhstan.
+I am a Doctoral Researcher in the Department of Social and Political Sciences at the European University Institute. My research examines how the design of public institutions and bureaucratic incentives shape governance outcomes and citizens’ interactions with the state.
+
+I combine quantitative methods, quasi-experimental designs, and survey experiments to study how different forms of local leadership, electoral institutions, and administrative hierarchies affect accountability, public service provision, and citizens’ evaluations of government performance.
+
+Substantively, my work focuses on subnational governance and public-sector institutions in post-communist countries, with a particular emphasis on Russia, Kazakhstan, Ukraine and Armenia.
 
 From January to May 2025, I was a Visiting Scholar at the [Institute for European, Russian and Eurasian Studies (IERES)](https://ieres.elliott.gwu.edu/about-us/visiting-scholars/) at George Washington University in Washington, DC. Prior to my doctoral studies, I held research and teaching positions at the European University at St. Petersburg and Perm State University. 
 
