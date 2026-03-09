@@ -1,5 +1,5 @@
 ## About Me
-I am a Doctoral Researcher in the Department of Social and Political Sciences at the European University Institute. My research examines how the design of public institutions and bureaucratic incentives shape governance outcomes and citizens’ interactions with the state.
+I am a Doctoral Researcher in the [Department of Social and Political Sciences at the European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). My research examines how the design of public institutions and bureaucratic incentives shape governance outcomes and citizens’ interactions with the state.
 
 I combine quantitative methods, quasi-experimental designs, and survey experiments to study how different forms of local leadership, electoral institutions, and administrative hierarchies affect accountability, public service provision, and citizens’ evaluations of government performance.
 
