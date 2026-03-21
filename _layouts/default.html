@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 
   <body>
@@ -22,34 +22,39 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {%- comment -%} ===== Custom contact block starts here ===== {%- endcomment -%}
         <div class="contact-block">
           {% if site.email %}
             <p class="contact-line">
+              <span aria-hidden="true">✉</span>
               <a href="mailto:{{ site.email }}">{{ site.email }}</a>
             </p>
           {% endif %}
 
           <p class="contact-links">
             {% if site.cv %}
+              <span aria-hidden="true">📄</span>
               <a href="{{ site.cv | relative_url }}">CV</a>
             {% endif %}
-            {% if site.github %}
+
+            {% if site.github_url %}
               {% if site.cv %} · {% endif %}
-              <a href="{{ site.github }}">GitHub</a>
+              <span aria-hidden="true">💻</span>
+              <a href="{{ site.github_url }}">GitHub</a>
             {% endif %}
+
             {% if site.google_scholar %}
-              {% if site.cv or site.github %} · {% endif %}
+              {% if site.cv or site.github_url %} · {% endif %}
+              <span aria-hidden="true">🎓</span>
               <a href="{{ site.google_scholar }}">Google Scholar</a>
             {% endif %}
+
             {% if site.linkedin %}
-              {% if site.cv or site.github or site.google_scholar %} · {% endif %}
+              {% if site.cv or site.github_url or site.google_scholar %} · {% endif %}
+              <span aria-hidden="true">💼</span>
               <a href="{{ site.linkedin }}">LinkedIn</a>
             {% endif %}
           </p>
         </div>
-        {%- comment -%} ===== Custom contact block ends here ===== {%- endcomment -%}
-
       </header>
 
       <section>
