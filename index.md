@@ -1,13 +1,14 @@
 ## About Me
-I am a Doctoral Researcher in the [Department of Social and Political Sciences at the European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). My research examines how the design of public institutions and bureaucratic incentives shape governance outcomes and citizens’ interactions with the state.
 
-I combine quantitative methods, quasi-experimental designs, and survey experiments to study how different forms of local leadership, electoral institutions, and administrative hierarchies affect accountability, public service provision, and citizens’ evaluations of government performance.
+I am a quantitative political scientist studying autocracies, governance, and public attitudes, with a regional focus on post-Soviet countries.
 
-Substantively, my work focuses on subnational governance and public-sector institutions in post-communist countries, with a particular emphasis on Russia, Kazakhstan, Ukraine and Armenia.
+I am a Doctoral Researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences), and was a Visiting Scholar at the [Institute for European, Russian and Eurasian Studies (IERES)](https://ieres.elliott.gwu.edu/about-us/visiting-scholars/) at George Washington University.
 
-From January to May 2025, I was a Visiting Scholar at the [Institute for European, Russian and Eurasian Studies (IERES)](https://ieres.elliott.gwu.edu/about-us/visiting-scholars/) at George Washington University in Washington, DC. Prior to my doctoral studies, I held research and teaching positions at the European University at St. Petersburg and Perm State University. 
+My research examines how subnational institutions and elite management strategies shape accountability, public service provision, and citizens’ evaluations of government performance.
 
-I am currently on the job market and open to academic, policy-oriented, and applied research positions.
+Methodologically, I specialize in causal inference with observational data, quasi-experimental designs, and survey experiments.
+
+I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
 
 ## Current Projects and Working Papers (Unpublished)
 
@@ -79,7 +80,7 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 
   <li>
     Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
-    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) — Accepted in the European Journal of Political Research.
+    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) — **Accepted, European Journal of Political Research.**
     <span class="paper-links">
       <a href="#abs-war-attitudes">[Abstract]</a>
     </span>
@@ -150,12 +151,13 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 ## Methods and Expertise
 
 <ul class="methods-list">
-  <li>Quantitative analysis of panel and cross-sectional data</li>
-  <li>Quasi-experimental designs</li>
-  <li>Survey research and survey experiments</li>
+  <li>Causal inference with observational data (panel and cross-sectional)</li>
+  <li>Quasi-experimental designs (policy shocks, institutional reforms)</li>
+  <li>Survey and vignette experiments</li>
   <li>Qualitative interviews</li>
-  <li>Subnational administrative, electoral and protest data</li>
-  <li>Research on public attitudes, elite strategies, technocracy and authoritarianism</li>
+  <li>Analysis of subnational administrative, electoral, and protest data</li>
+  <li>Experience with large language models (LLMs) for data collection and validation<li>
+  <li>Research on public attitudes, elite strategies, technocracy and authoritarian governance</li>
 </ul>
 
 
@@ -164,7 +166,7 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 **Maidan Revolutions, the War in Ukraine, and Civil Society Responses**  
 ([Project link](https://alameda.institute/research/maidan-revolutions/))
 
-I am a researcher in the international project *Maidan Revolutions, the War in Ukraine, and Civil Society Responses*, which examines the social and political consequences of revolutions and war in post-Soviet societies. Within the project, I am responsible for the design and implementation of cross-national survey research in Armenia, Belarus, Russia, and Ukraine. My work includes developing research questions and hypotheses, designing questionnaires, coordinating with survey firms and reviewing pilot studies, analyzing survey data, and contributing empirical findings to academic publications.
+Within the project, I am responsible for the design and implementation of cross-national survey research in Armenia, Belarus, Russia, and Ukraine. My work includes developing research questions and hypotheses, designing questionnaires, coordinating with survey firms and reviewing pilot studies, analyzing survey data, and contributing empirical findings to academic publications.
 
 **GLOBAL — European Governance and Politics Programme (ERC Advanced Grant)**  
 ([Project link](https://europeangovernanceandpolitics.eui.eu/global/))
