@@ -22,39 +22,34 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div class="contact-block">
-          {% if site.email %}
-            <p class="contact-line">
-              <span aria-hidden="true">✉</span>
-              <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-            </p>
-          {% endif %}
+       <div class="contact-block">
+  {% if site.email %}
+    <p class="contact-line">
+      <a href="mailto:{{ site.email }}">📧 {{ site.email }}</a>
+    </p>
+  {% endif %}
 
-          <p class="contact-links">
-            {% if site.cv %}
-              <span aria-hidden="true">📄</span>
-              <a href="{{ site.cv | relative_url }}">CV</a>
-            {% endif %}
+  <p class="contact-links">
+    {% if site.cv %}
+      <a href="{{ site.cv | relative_url }}">CV</a>
+    {% endif %}
 
-            {% if site.github_url %}
-              {% if site.cv %} · {% endif %}
-              <span aria-hidden="true">💻</span>
-              <a href="{{ site.github_url }}">GitHub</a>
-            {% endif %}
+    {% if site.github_url %}
+      {% if site.cv %} · {% endif %}
+      <a href="{{ site.github_url }}">GitHub</a>
+    {% endif %}
 
-            {% if site.google_scholar %}
-              {% if site.cv or site.github_url %} · {% endif %}
-              <span aria-hidden="true">🎓</span>
-              <a href="{{ site.google_scholar }}">Google Scholar</a>
-            {% endif %}
+    {% if site.google_scholar %}
+      {% if site.cv or site.github_url %} · {% endif %}
+      <a href="{{ site.google_scholar }}">Google Scholar</a>
+    {% endif %}
 
-            {% if site.linkedin %}
-              {% if site.cv or site.github_url or site.google_scholar %} · {% endif %}
-              <span aria-hidden="true">💼</span>
-              <a href="{{ site.linkedin }}">LinkedIn</a>
-            {% endif %}
-          </p>
-        </div>
+    {% if site.linkedin %}
+      {% if site.cv or site.github_url or site.google_scholar %} · {% endif %}
+      <a href="{{ site.linkedin }}">LinkedIn</a>
+    {% endif %}
+  </p>
+</div>
       </header>
 
       <section>
