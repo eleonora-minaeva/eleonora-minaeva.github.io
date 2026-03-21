@@ -10,7 +10,7 @@ Methodologically, I specialize in causal inference with observational data, quas
 
 I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
 
-## Current Projects and Working Papers (Unpublished)
+## Working Papers
 
 **Solo-authored**
 <ul>
@@ -162,7 +162,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
 </ul>
 
 
-## Research Projects and Collaborations
+## Side Research Projects and Collaborations
 
 **Maidan Revolutions, the War in Ukraine, and Civil Society Responses**  
 ([Project link](https://alameda.institute/research/maidan-revolutions/))
