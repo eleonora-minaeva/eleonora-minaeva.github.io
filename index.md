@@ -169,7 +169,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
 
 Within the project, I am responsible for the design and implementation of cross-national survey research in **Armenia**, **Belarus**, **Russia**, and **Ukraine**. My work includes developing research questions and hypotheses, designing questionnaires, coordinating with survey firms and reviewing pilot studies, analyzing survey data, and contributing empirical findings to academic publications.
 
-**GLOBAL — European Governance and Politics Programme (ERC Advanced Grant)**  
+**GLOBAL — European Governance and Politics Programme**  
 ([Project link](https://europeangovernanceandpolitics.eui.eu/global/))
 
 I am an assistant in *GLOBAL*, an ERC Advanced Grant project led by Daniele Caramani at the European University Institute. My contribution focuses on data collection and validation for research on global party networks and transnational political organizations. I work on collecting and systematizing data on party memberships and transnational party-linked NGOs, creating benchmark datasets for evaluating large language models, and validating generative AI outputs to construct high-quality datasets for the analysis of global political cleavages.
