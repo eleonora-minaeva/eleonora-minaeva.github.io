@@ -157,7 +157,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
   <li>Survey and vignette experiments</li>
   <li>Qualitative interviews</li>
   <li>Analysis of subnational administrative, electoral, and protest data</li>
-  <li>Experience with large language models (LLMs) for data collection and validation<li>
+  <li>Experience with large language models (LLMs) for data collection and validation</li>
   <li>Research on public attitudes, elite strategies, technocracy and authoritarian governance</li>
 </ul>
 
