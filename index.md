@@ -80,7 +80,8 @@ I am currently on the academic job market and open to academic, policy-oriented,
 
   <li>
     Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
-    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) — **Accepted, European Journal of Political Research.**
+    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) —
+<strong>Accepted, European Journal of Political Research.</strong>
     <span class="paper-links">
       <a href="#abs-war-attitudes">[Abstract]</a>
     </span>
