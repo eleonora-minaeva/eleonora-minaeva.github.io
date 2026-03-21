@@ -81,7 +81,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
   <li>
     Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
     (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) —
-<strong>Accepted, European Journal of Political Research.</strong>
+<em>Accepted, European Journal of Political Research</em>
     <span class="paper-links">
       <a href="#abs-war-attitudes">[Abstract]</a>
     </span>
@@ -167,7 +167,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
 **Maidan Revolutions, the War in Ukraine, and Civil Society Responses**  
 ([Project link](https://alameda.institute/research/maidan-revolutions/))
 
-Within the project, I am responsible for the design and implementation of cross-national survey research in Armenia, Belarus, Russia, and Ukraine. My work includes developing research questions and hypotheses, designing questionnaires, coordinating with survey firms and reviewing pilot studies, analyzing survey data, and contributing empirical findings to academic publications.
+Within the project, I am responsible for the design and implementation of cross-national survey research in **Armenia**, **Belarus**, **Russia**, and **Ukraine**. My work includes developing research questions and hypotheses, designing questionnaires, coordinating with survey firms and reviewing pilot studies, analyzing survey data, and contributing empirical findings to academic publications.
 
 **GLOBAL — European Governance and Politics Programme (ERC Advanced Grant)**  
 ([Project link](https://europeangovernanceandpolitics.eui.eu/global/))
