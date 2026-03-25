@@ -151,7 +151,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
 5. Minaeva, E., Panov, P. (2020). Localization of Ethnic Groups in the Regions as a Factor of Cross-Regional Variations in Voting for United Russia. *Russian Politics*: 131-153. DOI: [10.30965/24518921-00502001](https://www.researchgate.net/publication/342306105_Localization_of_Ethnic_Groups_in_the_Regions_as_a_Factor_in_Cross-Regional_Variations_in_Voting_for_United_Russia). *(In Russian)*.
 6. Minaeva, E., Semenov, A. (2020). The Cities of Forking Streets: Trajectories of Urban Conflicts in Russia.  *The Journal of Social Policy Studies*, Vol. 19, Issue 2: 189-204. *(In Russian)*.
 7. Minaeva E., Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. *Ars Administrandi*, Vol. 1: 120-136. *(In Russian)*.
-8. Minaeva E., Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. *Political Science*, Vol. 4: 178-205. *In Russian)*.
+8. Minaeva E., Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. *Political Science*, Vol. 4: 178-205. *(In Russian)*.
 9. Minaeva E. (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. *Bulletin of Perm University. Political Science*, Vol. 1: 83-96. *(In Russian)*.
 
 ## Online Publications
