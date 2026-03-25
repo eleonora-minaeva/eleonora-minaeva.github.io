@@ -156,7 +156,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
 
 ## Online Publications
 
-- Rogov K., & Minaeva E. (2022). The Journey from 1945 to 1941 [Link](https://github.com/eminaeva/IntroR](https://re-russia.net/en/analytics/023/)
+- Rogov K., & Minaeva E. (2022). The Journey from 1945 to 1941 [Link](https://re-russia.net/en/analytics/023/)
 
 - GIS Technologies in Ethno-Political Studies: Spatial Localization of Ethnic Groups [Link](https://www.icelds.org/2018/03/02/gis-technologies-in-ethno-political-studies-spatial-localization-of-ethnic-groups/)
 
