@@ -10,6 +10,30 @@ Methodologically, I specialize in causal inference with observational data, quas
 
 I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
 
+## Under Review
+
+<ul>
+
+  <li>
+    Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment<br>
+    (with <a href="https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru">Dmitriy Serebrennikov</a> and
+    Sergey Ross)
+    <span class="paper-links">
+      <a href="#abs-surveillance">[Abstract]</a>
+    </span>
+
+    <div id="abs-surveillance" class="paper-abstract">
+      <em>
+        How do authoritarian regimes deploy digital surveillance technologies, and to what ends? We show how technologies that are publicly justified through the language of crime control and service provision simultaneously operate as infrastructures of political control. This article examines facial recognition–enabled CCTV expansion in Moscow’s AI Experiment. We combine panel models of district crime clearance before and after the 2020 rollout of facial recognition with fine-grained spatial models of camera installations. Using geolocated data on CCTV and protest activity, we assess both policing performance and the political dynamics shaping surveillance expansion. The results reveal a clear asymmetry. Facial recognition is only weakly and inconsistently associated with higher crime clearance. By contrast, new CCTV installations are systematically associated with prior protest activity in the same locations, independent of crime trends and local factors. These findings suggest that the political value of digital surveillance lies less in improving policing than in enabling selective, spatially targeted repression.
+      </em>
+
+      <div class="abstract-close">
+        <a href="#">Close</a>
+      </div>
+    </div>
+  </li>
+
+
 ## Working Papers
 
 **Solo-authored**
@@ -41,42 +65,6 @@ I am currently on the academic job market and open to academic, policy-oriented,
 </ul>
 
 **Co-authored**
-
-<ul>
-
-  <li>
-    Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment<br>
-    (with <a href="https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru">Dmitriy Serebrennikov</a> and
-    Sergey Ross)
-    <span class="paper-links">
-      <a href="#abs-surveillance">[Abstract]</a>
-    </span>
-
-    <div id="abs-surveillance" class="paper-abstract">
-      <em>
-        This article examines the political logic of digital surveillance deployment in contemporary authoritarian
-        governance through the case of Moscow’s AI Experiment. We ask whether the expansion of facial
-        recognition–enabled CCTV reflects a logic of performative legitimacy—improving policing effectiveness—or
-        a logic of infrastructural political control, whereby surveillance infrastructure is expanded in response
-        to protest activity. Using original spatially and temporally disaggregated data on CCTV installation,
-        district-level crime clearance, and protest events in which detentions occurred, we provide the first
-        systematic empirical test of these competing logics in Russia. Empirically, we combine district-level panel
-        models of crime clearance before and after the 2020 rollout of facial recognition with models predicting
-        the expansion of public-space CCTV. The results reveal a sharp asymmetry. Facial recognition is only weakly
-        and inconsistently associated with improvements in crime clearance, and only at the aggregate level. By
-        contrast, the expansion of public-space surveillance is strongly and spatially linked to recent protest
-        activity, independent of crime dynamics and prior surveillance density. These findings show that digital
-        surveillance in Russia is deployed less to deliver measurable policing gains than to reorganize urban space
-        in ways that lower the future costs of monitoring and intervention. More broadly, the study demonstrates
-        how technocratic digitalization enables authoritarian regimes to translate episodes of protest into durable
-        infrastructural capacity.
-      </em>
-
-      <div class="abstract-close">
-        <a href="#">Close</a>
-      </div>
-    </div>
-  </li>
 
   <li>
     Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
