@@ -68,38 +68,6 @@ I am currently on the academic job market and open to academic, policy-oriented,
 <ul>
 
   <li>
-    Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
-    (with <a href="https://filipkostelka.com">Filip Kostelka</a> et al.) —
-<em>Accepted, European Journal of Political Research</em>
-    <span class="paper-links">
-      <a href="#abs-war-attitudes">[Abstract]</a>
-    </span>
-
-    <div id="abs-war-attitudes" class="paper-abstract">
-      <em>
-        This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans
-        express dismay at Russia's aggression against Ukraine, more ambivalent or even pro-Kremlin positions are
-        not rare. Drawing on the literature on foreign policy and wars, we hypothesize that support for the
-        aggressor may reflect a quartet of factors: economic interests, ideological preferences, political cues,
-        and disinformation. We probe the role of these factors using two types of survey data. The first is an
-        original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning
-        over 12,000 respondents. The other is the Solidarity in Europe survey with more than 24,000 respondents from
-        seventeen countries. The results of three types of analyses reveal that neutral and pro-Kremlin attitudes,
-        held by sizeable segments of European society, are most strongly linked to the positions of respondents’
-        preferred political parties, followed by disinformation and ideology. Overall, top-down models of public
-        opinion seem to explain better within-country variations in attitudes towards the conflict than bottom-up
-        models. These findings, which should be interpreted carefully, carry important implications for containing
-        Russia's influence over Europe's public opinion and contribute to the literature on public preference
-        formation in the field of foreign policy.
-      </em>
-
-      <div class="abstract-close">
-        <a href="#">Close</a>
-      </div>
-    </div>
-  </li>
-
-  <li>
     Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan<br>
     (with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and
     <a href="https://www.politics.ox.ac.uk/person/thomas-hazell">Thomas Hazell</a>)
@@ -133,15 +101,16 @@ I am currently on the academic job market and open to academic, policy-oriented,
 </ul>
 
 ## Journal Publications
-1. Minaeva, E., Rumiantseva, A., Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
-2. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
-3. Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. *Universe of Russia. Sociology. Ethnology*, Vol. 31, Issue 2: 97-117. *(In Russian)*.
-4. Minaeva, E., Panov, P. (2021). Dense Networks, Ethnic Minorities, and Electoral Mobilization in Contemporary Russia. *Problems of Post-Communism*, DOI: [10.1080/10758216.2021.1974885](https://doi.org/10.1080/10758216.2021.1974885).
-5. Minaeva, E., Panov, P. (2020). Localization of Ethnic Groups in the Regions as a Factor of Cross-Regional Variations in Voting for United Russia. *Russian Politics*: 131-153. DOI: [10.30965/24518921-00502001](https://www.researchgate.net/publication/342306105_Localization_of_Ethnic_Groups_in_the_Regions_as_a_Factor_in_Cross-Regional_Variations_in_Voting_for_United_Russia). *(In Russian)*.
-6. Minaeva, E., Semenov, A. (2020). The Cities of Forking Streets: Trajectories of Urban Conflicts in Russia.  *The Journal of Social Policy Studies*, Vol. 19, Issue 2: 189-204. *(In Russian)*.
-7. Minaeva E., Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. *Ars Administrandi*, Vol. 1: 120-136. *(In Russian)*.
-8. Minaeva E., Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. *Political Science*, Vol. 4: 178-205. *(In Russian)*.
-9. Minaeva E. (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. *Bulletin of Perm University. Political Science*, Vol. 1: 83-96. *(In Russian)*.
+1. Kostelka, F., Alberdi, M., Bradley, M., Fiselier, T., Jabbour, A., Mansour, N., Minaeva, E., Porciuleanu, S. & Rafailova, D. (2026). Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation. Forthcoming in *European Journal of Political Research*.
+2. Minaeva, E., Rumiantseva, A & Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
+3. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
+4. Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. *Universe of Russia. Sociology. Ethnology*, Vol. 31, Issue 2: 97-117. *(In Russian)*.
+5. Minaeva, E. & Panov, P. (2021). Dense Networks, Ethnic Minorities, and Electoral Mobilization in Contemporary Russia. *Problems of Post-Communism*, DOI: [10.1080/10758216.2021.1974885](https://doi.org/10.1080/10758216.2021.1974885).
+6. Minaeva, E. & Panov, P. (2020). Localization of Ethnic Groups in the Regions as a Factor of Cross-Regional Variations in Voting for United Russia. *Russian Politics*: 131-153. DOI: [10.30965/24518921-00502001](https://www.researchgate.net/publication/342306105_Localization_of_Ethnic_Groups_in_the_Regions_as_a_Factor_in_Cross-Regional_Variations_in_Voting_for_United_Russia). *(In Russian)*.
+7. Minaeva, E. & Semenov, A. (2020). The Cities of Forking Streets: Trajectories of Urban Conflicts in Russia.  *The Journal of Social Policy Studies*, Vol. 19, Issue 2: 189-204. *(In Russian)*.
+8. Minaeva E. & Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. *Ars Administrandi*, Vol. 1: 120-136. *(In Russian)*.
+9. Minaeva E. & Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. *Political Science*, Vol. 4: 178-205. *(In Russian)*.
+10. Minaeva E. (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. *Bulletin of Perm University. Political Science*, Vol. 1: 83-96. *(In Russian)*.
 
 ## Online Publications
 
