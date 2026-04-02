@@ -65,6 +65,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
 </ul>
 
 **Co-authored**
+<ul>
 
   <li>
     Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation<br>
