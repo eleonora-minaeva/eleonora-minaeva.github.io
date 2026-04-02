@@ -32,7 +32,7 @@ I am currently on the academic job market and open to academic, policy-oriented,
       </div>
     </div>
   </li>
-
+</ul>
 
 ## Working Papers
 
