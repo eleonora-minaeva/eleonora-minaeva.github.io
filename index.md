@@ -10,29 +10,18 @@ Methodologically, I specialize in causal inference with observational data, quas
 
 I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
 
-## Under Review
-
-<ul>
-
-  <li>
-    Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment<br>
-    (with <a href="https://scholar.google.com/citations?user=7AMjvF8AAAAJ&hl=ru">Dmitriy Serebrennikov</a> and
-    Sergey Ross)
-    <span class="paper-links">
-      <a href="#abs-surveillance">[Abstract]</a>
-    </span>
-
-    <div id="abs-surveillance" class="paper-abstract">
-      <em>
-        How do authoritarian regimes deploy digital surveillance technologies, and to what ends? We show how technologies that are publicly justified through the language of crime control and service provision simultaneously operate as infrastructures of political control. This article examines facial recognition–enabled CCTV expansion in Moscow’s AI Experiment. We combine panel models of district crime clearance before and after the 2020 rollout of facial recognition with fine-grained spatial models of camera installations. Using geolocated data on CCTV and protest activity, we assess both policing performance and the political dynamics shaping surveillance expansion. The results reveal a clear asymmetry. Facial recognition is only weakly and inconsistently associated with higher crime clearance. By contrast, new CCTV installations are systematically associated with prior protest activity in the same locations, independent of crime trends and local factors. These findings suggest that the political value of digital surveillance lies less in improving policing than in enabling selective, spatially targeted repression.
-      </em>
-
-      <div class="abstract-close">
-        <a href="#">Close</a>
-      </div>
-    </div>
-  </li>
-</ul>
+## Journal Publications
+1. Serebrennikov D., Minaeva E., & Ross S. (2026) Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment. Accepted and forthcoming in *Russian Politics*. 
+2. Kostelka, F., Alberdi, M., Bradley, M., Fiselier, T., Jabbour, A., Mansour, N., Minaeva, E., Porciuleanu, S. & Rafailova, D. (2026). Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation. Accepted and forthcoming in *European Journal of Political Research*.
+3. Minaeva, E., Rumiantseva, A & Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
+4. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
+5. Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. *Universe of Russia. Sociology. Ethnology*, Vol. 31, Issue 2: 97-117. *(In Russian)*.
+6. Minaeva, E. & Panov, P. (2021). Dense Networks, Ethnic Minorities, and Electoral Mobilization in Contemporary Russia. *Problems of Post-Communism*, DOI: [10.1080/10758216.2021.1974885](https://doi.org/10.1080/10758216.2021.1974885).
+7. Minaeva, E. & Panov, P. (2020). Localization of Ethnic Groups in the Regions as a Factor of Cross-Regional Variations in Voting for United Russia. *Russian Politics*: 131-153. DOI: [10.30965/24518921-00502001](https://www.researchgate.net/publication/342306105_Localization_of_Ethnic_Groups_in_the_Regions_as_a_Factor_in_Cross-Regional_Variations_in_Voting_for_United_Russia). *(In Russian)*.
+8. Minaeva, E. & Semenov, A. (2020). The Cities of Forking Streets: Trajectories of Urban Conflicts in Russia.  *The Journal of Social Policy Studies*, Vol. 19, Issue 2: 189-204. *(In Russian)*.
+9. Minaeva E. & Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. *Ars Administrandi*, Vol. 1: 120-136. *(In Russian)*.
+10. Minaeva E. & Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. *Political Science*, Vol. 4: 178-205. *(In Russian)*.
+11. Minaeva E. (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. *Bulletin of Perm University. Political Science*, Vol. 1: 83-96. *(In Russian)*.
 
 ## Working Papers
 
@@ -99,18 +88,6 @@ I am currently on the academic job market and open to academic, policy-oriented,
   </li>
 
 </ul>
-
-## Journal Publications
-1. Kostelka, F., Alberdi, M., Bradley, M., Fiselier, T., Jabbour, A., Mansour, N., Minaeva, E., Porciuleanu, S. & Rafailova, D. (2026). Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation. Forthcoming in *European Journal of Political Research*.
-2. Minaeva, E., Rumiantseva, A & Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
-3. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
-4. Minaeva, E. (2022). Strategies for the Preservation and Cancellation of the Direct Election of Municipal Heads in Russia. *Universe of Russia. Sociology. Ethnology*, Vol. 31, Issue 2: 97-117. *(In Russian)*.
-5. Minaeva, E. & Panov, P. (2021). Dense Networks, Ethnic Minorities, and Electoral Mobilization in Contemporary Russia. *Problems of Post-Communism*, DOI: [10.1080/10758216.2021.1974885](https://doi.org/10.1080/10758216.2021.1974885).
-6. Minaeva, E. & Panov, P. (2020). Localization of Ethnic Groups in the Regions as a Factor of Cross-Regional Variations in Voting for United Russia. *Russian Politics*: 131-153. DOI: [10.30965/24518921-00502001](https://www.researchgate.net/publication/342306105_Localization_of_Ethnic_Groups_in_the_Regions_as_a_Factor_in_Cross-Regional_Variations_in_Voting_for_United_Russia). *(In Russian)*.
-7. Minaeva, E. & Semenov, A. (2020). The Cities of Forking Streets: Trajectories of Urban Conflicts in Russia.  *The Journal of Social Policy Studies*, Vol. 19, Issue 2: 189-204. *(In Russian)*.
-8. Minaeva E. & Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. *Ars Administrandi*, Vol. 1: 120-136. *(In Russian)*.
-9. Minaeva E. & Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. *Political Science*, Vol. 4: 178-205. *(In Russian)*.
-10. Minaeva E. (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. *Bulletin of Perm University. Political Science*, Vol. 1: 83-96. *(In Russian)*.
 
 ## Online Publications
 
