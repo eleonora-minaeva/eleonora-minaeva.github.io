@@ -11,7 +11,7 @@ Methodologically, I specialize in causal inference with observational data, quas
 I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
 
 ## Journal Publications
-1. Serebrennikov D., Minaeva E., & Ross S. (2026). Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment. Accepted and forthcoming in *Russian Politics*. 
+1. Serebrennikov D., Minaeva E. & Ross S. (2026). Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment. Accepted and forthcoming in *Russian Politics*. 
 2. Kostelka, F., Alberdi, M., Bradley, M., Fiselier, T., Jabbour, A., Mansour, N., Minaeva, E., Porciuleanu, S. & Rafailova, D. (2026). Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation. Accepted and forthcoming in *European Journal of Political Research*.
 3. Minaeva, E., Rumiantseva, A & Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
 4. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*.](https://iupress.org/9780253065469/varieties-of-russian-activism/) Bloomington: Indiana University Press.
