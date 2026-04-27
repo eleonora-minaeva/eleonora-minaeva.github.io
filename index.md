@@ -8,7 +8,7 @@ My research examines how subnational institutions and elite management strategie
 
 Methodologically, I specialize in causal inference with observational data, quasi-experimental designs, and survey experiments.
 
-I am currently on the academic job market and open to academic, policy-oriented, and applied research positions.
+I am currently on the job market and open to academic, policy-oriented, and applied research positions.
 
 ## Journal Publications
 1. Serebrennikov D., Minaeva E. & Ross S. (2026). Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment. Forthcoming in *Russian Politics*. 
