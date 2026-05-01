@@ -1,12 +1,10 @@
 ## About Me
 
-I am a quantitative political scientist studying autocracies, governance, and public attitudes. My work combines cross-national analyses of authoritarian institutions, elite strategies, and institutional reforms with in-depth subnational research on post-Soviet countries.
-
-I am a Doctoral Researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences), and a former Visiting Scholar at the [Institute for European, Russian and Eurasian Studies (IERES)](https://ieres.elliott.gwu.edu/about-us/visiting-scholars/) at George Washington University.
-
-My research examines how subnational institutions and elite management strategies shape accountability, public service provision, and citizens’ evaluations of government performance.
+I am a quantitative political scientist studying autocracies, governance, and public attitudes. My work combines cross-national analyses of authoritarian institutions, elite strategies, and institutional reforms with in-depth subnational research on post-Soviet countries. 
 
 Methodologically, I specialize in causal inference with observational data, quasi-experimental designs, and survey experiments.
+
+I am a Doctoral Researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences), and a former Visiting Scholar at the [Institute for European, Russian and Eurasian Studies (IERES)](https://ieres.elliott.gwu.edu/about-us/visiting-scholars/) at George Washington University.
 
 I am currently on the job market and open to academic, policy-oriented, and applied research positions.
 
