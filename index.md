@@ -23,7 +23,7 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 
 ## Book Chapters
 1. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*](https://iupress.org/9780253065469/varieties-of-russian-activism/). Bloomington: Indiana University Press.
-2. Bederson, V. D., ... Minaeva, E. Yu., ... (2021). [*Cities of Diverging Streets: Trajectories of Urban Conflicts in Russia*](http://politeia.ru/files/articles/rus/Politeia-2024-1(112)-Pages-001-204-77-97.pdf). [Monograph]. Moscow; Saint Petersburg: Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences. DOI: 10.19181/monogr.978-5-89697-351-5.2021.
+2. Bederson, V. D., ... Minaeva, E. Yu., ... (2021). [*Cities of Diverging Streets: Trajectories of Urban Conflicts in Russia*](http://urbanconflictsrussia.ru/wp-content/uploads/2022/05/Book_layout_r6_print-final.pdf). [Monograph]. Moscow; Saint Petersburg: Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences. DOI: 10.19181/monogr.978-5-89697-351-5.2021.
 
 ## Working Papers
 
