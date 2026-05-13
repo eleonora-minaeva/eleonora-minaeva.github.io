@@ -18,9 +18,9 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 7. **Minaeva, E.** & Panov, P. (2021). Dense Networks, Ethnic Minorities, and Electoral Mobilization in Contemporary Russia. ***Problems of Post-Communism***, DOI: [10.1080/10758216.2021.1974885](https://doi.org/10.1080/10758216.2021.1974885).
 8. **Minaeva, E.** & Panov, P. (2020). Localization of Ethnic Groups in the Regions as a Factor of Cross-Regional Variations in Voting for United Russia. ***Russian Politics***: 131-153. DOI: [10.30965/24518921-00502001](https://www.researchgate.net/publication/342306105_Localization_of_Ethnic_Groups_in_the_Regions_as_a_Factor_in_Cross-Regional_Variations_in_Voting_for_United_Russia). 
 9. **Minaeva, E.** & Semenov, A. (2020). The Cities of Forking Streets: Trajectories of Urban Conflicts in Russia.  ***The Journal of Social Policy Studies***, Vol. 19, Issue 2: 189-204. 
-10. **Minaeva E.** & Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. ***Ars Administrandi***, Vol. 1: 120-136. 
-11. **Minaeva E.** & Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. ***Political Science***, Vol. 4: 178-205.
-12. **Minaeva E.** (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. ***Bulletin of Perm University. Political Science***, Vol. 1: 83-96. 
+10. **Minaeva, E.** & Semenov, A. (2020). Policy Transfer in Urban Governance: The Case of Strategic Urban Planning in Russia. ***Ars Administrandi***, Vol. 1: 120-136. 
+11. **Minaeva, E.** & Panov, P. (2017). Ethnic Regional Autonomies: Variation of the Correlation Between Sub-State Boundaries and Ethnic Groups’ Settlements. ***Political Science***, Vol. 4: 178-205.
+12. **Minaeva, E.** (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. ***Bulletin of Perm University. Political Science***, Vol. 1: 83-96. 
 
 ## Book Chapters
 1. **Minaeva, E.** (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*](https://iupress.org/9780253065469/varieties-of-russian-activism/). Bloomington: Indiana University Press.
