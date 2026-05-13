@@ -8,9 +8,9 @@ I am a Doctoral Researcher at the [European University Institute](https://www.eu
 
 I am currently on the job market and open to academic, policy-oriented, and applied research positions.
 
-## Journal Publications
-1. Serebrennikov D., Minaeva E. & Ross S. (2026). Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment. Forthcoming in *Russian Politics*. 
-2. Kostelka, F., ... Minaeva, E. ... (2026). Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation. *European Journal of Political Research*. [Download](https://www.researchgate.net/publication/403049733_Mass_Attitudes_towards_Russia's_Aggression_against_Ukraine_Tentative_Support_for_Top-Down_Opinion_Formation)
+## Peer-Reviewed Publications
+1. Kostelka, F., ... Minaeva, E. ... (2026). Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation. *European Journal of Political Research*. [Download](https://www.researchgate.net/publication/403049733_Mass_Attitudes_towards_Russia's_Aggression_against_Ukraine_Tentative_Support_for_Top-Down_Opinion_Formation)
+2. Serebrennikov D., Minaeva E. & Ross S. (2026). Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment. Forthcoming in *Russian Politics*. 
 3. Bederson, V., & Minaeva, E. (2024). “We’ll Find a Way to Settle This Among Ourselves”: Conditions for the Centralization of Municipal Powers in Urban Development. *Russian Sociological Review*, 23(2), 67–89. DOI: [10.17323/1728-192x-2024-2-67-89](https://doi.org/10.17323/1728-192x-2024-2-67-89).
 4. Semenov, A., & Minaeva, E. (2024). Mobilizational Momentum and Electoral Results of “Party in Power”. *Politeia*, 1(112), 77–97. DOI: [10.30570/2078-5089-2024-112-1-77-97](https://doi.org/10.30570/2078-5089-2024-112-1-77-97).
 5. Minaeva, E., Rumiantseva, A & Zavadskaya, M. (2023). From local elections to appointments: How has municipal reform changed vote delivery in Russian municipalities? *Electoral Studies*, Vol. 85, DOI: [10.1016/j.electstud.2023.102657](https://doi.org/10.1016/j.electstud.2023.102657).
