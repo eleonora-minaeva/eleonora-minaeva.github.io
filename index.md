@@ -23,8 +23,8 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 12. **Minaeva E.** (2016) Urban Settlement Versus Municipal District» in the Context of Vertical Power Structure: Polycentricity in Local Politicy. ***Bulletin of Perm University. Political Science***, Vol. 1: 83-96. 
 
 ## Book Chapters
-1. Minaeva, E. (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*](https://iupress.org/9780253065469/varieties-of-russian-activism/). Bloomington: Indiana University Press.
-2. Bederson, V. D., ... Minaeva, E. Yu., ... (2021). [*Cities of Diverging Streets: Trajectories of Urban Conflicts in Russia*](http://urbanconflictsrussia.ru/wp-content/uploads/2022/05/Book_layout_r6_print-final.pdf). [Monograph]. Moscow; Saint Petersburg: Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences. DOI: 10.19181/monogr.978-5-89697-351-5.2021.
+1. **Minaeva, E.** (2023). Policy Activism in Urban Governance: The Case of Master Plan Development in Perm. In Jeremy Morris, Andrei Semenov, and Regina Smyth (Eds.), [*Varieties of Russian Activism: State-Society Contestation in Everyday Life*](https://iupress.org/9780253065469/varieties-of-russian-activism/). Bloomington: Indiana University Press.
+2. Bederson, V. D., ... **Minaeva, E. Yu.**, ... (2021). [*Cities of Diverging Streets: Trajectories of Urban Conflicts in Russia*](http://urbanconflictsrussia.ru/wp-content/uploads/2022/05/Book_layout_r6_print-final.pdf). [Monograph]. Moscow; Saint Petersburg: Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences. DOI: 10.19181/monogr.978-5-89697-351-5.2021.
 
 ## Working Papers
 
@@ -92,7 +92,7 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 
 ## Online Publications
 
-- Rogov K., & Minaeva E. (2022). The Journey from 1945 to 1941 [Link](https://re-russia.net/en/analytics/023/)
+- Rogov K., & **Minaeva E.** (2022). The Journey from 1945 to 1941 [Link](https://re-russia.net/en/analytics/023/)
 
 - GIS Technologies in Ethno-Political Studies: Spatial Localization of Ethnic Groups [Link](https://www.icelds.org/2018/03/02/gis-technologies-in-ethno-political-studies-spatial-localization-of-ethnic-groups/)
 
