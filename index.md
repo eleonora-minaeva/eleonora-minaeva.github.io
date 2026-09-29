@@ -49,7 +49,7 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 </li>
 
 <li>
-  Why Autocrats (De)centralize Electoral Authority: Explaining the Introduction and Cancellation of Subnational Elections
+  Why Autocrats Centralize Electoral Authority: Explaining the Cancellation of Subnational Elections
 </li>
 
 </ul>
