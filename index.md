@@ -51,10 +51,10 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 <li>
   Why Autocrats Centralize Electoral Authority: Explaining the Cancellation of Subnational Elections
   <span class="paper-links">
-    <a href="#abs-local-gov">[Abstract]</a>
+    <a href="#abs-centralization">[Abstract]</a>
   </span>
 
-  <div id="abs-local-gov" class="paper-abstract">
+  <div id="abs-centralization" class="paper-abstract">
     <em>
       Autocracies increasingly govern through elected regional and local officials, yet some later reverse this and cancel subnational elections. This paper asks why. Using GWF regime data matched with V-Dem measures of regional and local authority for 1945–2025, I show that centralization is rare: among regimes that ever had elected subnational offices, fewer than one in four later canceled them. Existing work treats elections primarily as a tool autocrats deploy when useful -- for co-optation, information, or legitimacy -- which implies that centralization should track shifts in political convenience. Rather than treating all reversals as instances of the same process, I distinguish between early and late centralization and develop separate expectations for each. I find that early electoral rollback is concentrated where territorially rooted elites are excluded from the regime's support coalition and active in opposition. Late centralization is associated with growing concentration of ruler's power and deterioration in subnational electoral quality. As regimes endure, elected subnational institutions also become more vulnerable during periods of acute threat to elite cohesion or territorial control, including failed coup attempts and secessionist campaigns. Taken together, the results suggest that subnational elections become vulnerable to rollback when they provide a political base for actors outside the regime coalition or become harder for the center to control as the regime evolves.
     </em>
