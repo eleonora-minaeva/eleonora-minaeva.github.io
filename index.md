@@ -39,7 +39,7 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 
   <div id="abs-local-gov" class="paper-abstract">
     <em>
-      Authoritarian governments often justify the replacement of elected local politicians with appointed officials as a way to improve efficiency and reduce conflict. This paper asks whether citizens accept this argument, and how their answers depend on whether they trust the national leader and the broader authorities. Using a survey experiment in Russia, I examine how respondents evaluate fictional mayors who vary by local origin, mode of selection, and whether they seek compromise with or openly clash with local deputies and business elites. Respondents evaluate locally rooted and elected mayors more positively than appointed outsiders, although electoral selection matters most among those who distrust Putin. The central finding concerns regime loyalists. Those who trust Putin and view authorities as public-serving penalize mayors who clash with local elites, suggesting that they value coordination and order. Yet those who trust Putin while believing that authorities serve their own interests evaluate conflicting mayors more favorably, suggesting that such mayors can be seen as disciplining self-serving local actors rather than disrupting governance. These findings show that authoritarian centralization does not eliminate expectations of local accountability. Appointed mayors borrow legitimacy from the vertical, but this legitimacy is fragile: it depends not only on the popularity of the national leader, but also on whether citizens view the broader administrative hierarchy as competent and public-serving.
+      Authoritarian governments often justify replacing elected local officials with appointed ones as a way to improve efficiency and reduce conflict. This paper asks whether citizens accept this rationale and how their evaluations depend on trust in the national leader and beliefs about broader authorities. Using a vignette experiment in Russia, I examine how respondents evaluate hypothetical mayors who vary by local origin, mode of selection, and relationship with local deputies and business actors. On average, respondents evaluate locally rooted and elected mayors more positively than outsiders and appointees. Yet these cues do not matter equally for all citizens. Local origin is valued broadly, while electoral selection and confrontation with local elites matter most among respondents who distrust Putin. The central finding concerns variation among regime loyalists. Respondents who trust Putin and view authorities as public-serving penalize mayors who clash with local elites. By contrast, respondents who trust Putin but view authorities as self-serving penalize the same behavior much less. These findings show that support for the national leader does not automatically translate into acceptance of centralized local governance.
     </em>
 
     <div class="abstract-close">
@@ -50,6 +50,19 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 
 <li>
   Why Autocrats Centralize Electoral Authority: Explaining the Cancellation of Subnational Elections
+  <span class="paper-links">
+    <a href="#abs-local-gov">[Abstract]</a>
+  </span>
+
+  <div id="abs-local-gov" class="paper-abstract">
+    <em>
+      Autocracies increasingly govern through elected regional and local officials, yet some later reverse this and cancel subnational elections. This paper asks why. Using GWF regime data matched with V-Dem measures of regional and local authority for 1945–2025, I show that centralization is rare: among regimes that ever had elected subnational offices, fewer than one in four later canceled them. Existing work treats elections primarily as a tool autocrats deploy when useful -- for co-optation, information, or legitimacy -- which implies that centralization should track shifts in political convenience. Rather than treating all reversals as instances of the same process, I distinguish between early and late centralization and develop separate expectations for each. I find that early electoral rollback is concentrated where territorially rooted elites are excluded from the regime's support coalition and active in opposition. Late centralization is associated with growing concentration of ruler's power and deterioration in subnational electoral quality. As regimes endure, elected subnational institutions also become more vulnerable during periods of acute threat to elite cohesion or territorial control, including failed coup attempts and secessionist campaigns. Taken together, the results suggest that subnational elections become vulnerable to rollback when they provide a political base for actors outside the regime coalition or become harder for the center to control as the regime evolves.
+    </em>
+
+    <div class="abstract-close">
+      <a href="#">Close</a>
+    </div>
+  </div>
 </li>
 
 </ul>
@@ -99,7 +112,6 @@ I am currently on the job market and open to academic, policy-oriented, and appl
 ## Methods and Expertise
 
 <ul class="methods-list">
-  <li>Causal inference with observational data (panel and cross-sectional)</li>
   <li>Quasi-experimental designs (policy shocks, institutional reforms)</li>
   <li>Survey and vignette experiments</li>
   <li>Qualitative interviews</li>
